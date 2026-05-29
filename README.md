@@ -3,4 +3,4 @@
 --- 
 
 
-![](flags/matches/gif)
+![](https://github.com/alffajardo/worldcup_2026/blob/main/flags/matches/matches.gif)
