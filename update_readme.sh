@@ -9,7 +9,7 @@ git pull
 
 echo -e "Last time updated: $(date)" > 00.tmp_header.md
 
-echo "# **CANADA-USA-MEXICO FIFA WORLD  CUP**
+echo "# **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align="center">
 
