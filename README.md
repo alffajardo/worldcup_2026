@@ -7,12 +7,13 @@
 ---
 ## Welcome
 
+![](https://github.com/alffajardo/worldcup_2026/blob/main/flags/matches/matches.gif)
 
 Results of the FIFA World Cup 2025
 ---
 
 
 
-Last time upddated: Mon  8 Jun 2026 16:54:03 EDT.
+Last time upddated: Mon  8 Jun 2026 16:55:10 EDT.
 
 

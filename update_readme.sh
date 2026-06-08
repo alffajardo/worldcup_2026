@@ -17,6 +17,7 @@ echo "# **CANADA-USA-MEXICO FIFA WORLD  CUP**
 ---
 ## Welcome
 
+![](https://github.com/alffajardo/worldcup_2026/blob/main/flags/matches/matches.gif)
 
 Results of the FIFA World Cup 2025
 ---
