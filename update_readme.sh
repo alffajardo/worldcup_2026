@@ -20,11 +20,10 @@ echo "# **CANADA-USA-MEXICO FIFA WORLD  CUP**
 
 ![](https://github.com/alffajardo/worldcup_2026/blob/main/flags/matches/matches.gif)
 
-Results of the FIFA World Cup 2025
----
+--- 
+Results of the FIFA World Cup 2026
+---" >> 00.tmp_header.md
 
-
-" >> 00.tmp_header.md
 
 
 
