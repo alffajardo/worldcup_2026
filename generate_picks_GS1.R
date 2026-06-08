@@ -12,7 +12,7 @@ library(tidyr)
 options(gargle_oauth_email = TRUE)
 drive_auth(email = TRUE)
 
-picks_id <- drive_find(type = "spreadsheet",pattern = "WC_2026_GS1",
+picks_id <- drive_find(type = "spreadsheet",pattern = "WC2026_GS1",
 n_max = 1)$id
 
 
