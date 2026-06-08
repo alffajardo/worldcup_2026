@@ -7,7 +7,7 @@ git pull
 # -------------------------Header -----------------------------------------------------------------|
 # -------------------------------------------------------------------------------------------------|
 
-echo -e "Last time updated: $(date)"
+echo -e "Last time updated: $(date)" > 00.tmp_header.md
 
 echo "# **CANADA-USA-MEXICO FIFA WORLD  CUP**
 
@@ -24,7 +24,7 @@ Results of the FIFA World Cup 2025
 ---
 
 
-" > 00.tmp_header.md
+" >> 00.tmp_header.md
 
 
 
