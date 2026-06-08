@@ -7,6 +7,7 @@ git pull
 # -------------------------Header -----------------------------------------------------------------|
 # -------------------------------------------------------------------------------------------------|
 
+echo -e "Last time updated: $(date)"
 
 echo "# **CANADA-USA-MEXICO FIFA WORLD  CUP**
 
@@ -15,7 +16,7 @@ echo "# **CANADA-USA-MEXICO FIFA WORLD  CUP**
 <img src="media/worldcup_banner.jpeg" alt="worldcup_banner" width="1000"/>
 
 ---
-## Welcome
+# Welcome
 
 ![](https://github.com/alffajardo/worldcup_2026/blob/main/flags/matches/matches.gif)
 
@@ -24,12 +25,6 @@ Results of the FIFA World Cup 2025
 
 
 " > 00.tmp_header.md
-
-echo -e "Last time upddated: $(date).
-
-" >> 00.tmp_header.md 
-
-
 
 
 
