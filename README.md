@@ -1,4 +1,4 @@
-Last time updated: Mon  8 Jun 2026 17:10:53 EDT
+Last UpdatE: Tue  9 Jun 2026 10:39:28 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -11,5 +11,5 @@ Last time updated: Mon  8 Jun 2026 17:10:53 EDT
 ![](https://github.com/alffajardo/worldcup_2026/blob/main/flags/matches/matches.gif)
 
 --- 
-Results of the FIFA World Cup 2026
+FIFA World Cup 2026 results
 ---

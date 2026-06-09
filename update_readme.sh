@@ -7,7 +7,7 @@ git pull
 # -------------------------Header -----------------------------------------------------------------|
 # -------------------------------------------------------------------------------------------------|
 
-echo -e "Last time updated: $(date)" > 00.tmp_header.md
+echo -e "Last UpdatE: $(date)" > 00.tmp_header.md
 
 echo "# **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
@@ -21,7 +21,7 @@ echo "# **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 ![](https://github.com/alffajardo/worldcup_2026/blob/main/flags/matches/matches.gif)
 
 --- 
-Results of the FIFA World Cup 2026
+FIFA World Cup 2026 results
 ---" >> 00.tmp_header.md
 
 
