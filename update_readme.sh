@@ -24,6 +24,8 @@ echo "# **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 FIFA World Cup 2026 results
 ---" >> 00.tmp_header.md
 
+Rscript score_picks.R
+
 
 
 
@@ -36,6 +38,42 @@ FIFA World Cup 2026 results
 # Gather all the files into the read me
 
 cat 00.tmp_header.md  > README.md
+
+
+
+# Place the general results table 
+
+echo "## Total Scores"  >> 00.tmp_header.mx
+
+
+#########------------------------
+##          GS1
+####################################
+
+## GROUP stage one
+
+echo "
+ ## <u>**Group State 1 (GS1) Picks**</u>
+ 
+ " >> 01.tmp_gs1.md
+
+Rscript generate_picks_GS1.R
+
+gen_markdowntable.sh --csv <  GS1_picks.csv >> 01.tmp_gs1.md
+
+
+echo "### Plots
+
+![](media/picks_GS1.png )
+
+### Picks Similarities
+<img src="media/similarities_GS1.png" alt="similarities" width="600"/>
+
+---
+### **Critical Matches in this round**
+ 
+cat 01.tmp_gs1.md >> README.md
+
 
 
  rm *tmp*md
