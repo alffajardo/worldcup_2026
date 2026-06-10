@@ -24,10 +24,14 @@ echo "# **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 FIFA World Cup 2026 results
 ---" >> 00.tmp_header.md
 
+
 Rscript score_picks.R
 
 
 
+echo " ## Total Scores" >> 00.tmp_header.md
+
+gen_markdowntable.sh --csv <  Overall_scores.csv >> 00.tmp_header.md
 
 
 #### --------------------------------------------------------------------------------------------------------
@@ -35,15 +39,6 @@ Rscript score_picks.R
 
 # ----------------------------------------------------------------------------------------------------- |
 # .-----------------------------------------------------------------------------------------------------|
-# Gather all the files into the read me
-
-cat 00.tmp_header.md  > README.md
-
-
-
-# Place the general results table 
-
-echo "## Total Scores"  >> 00.tmp_header.mx
 
 
 #########------------------------
@@ -72,7 +67,7 @@ echo "### Plots
 ---
 ### **Critical Matches in this round**
  
-cat 01.tmp_gs1.md >> README.md
+cat 00.tmp_header.md 01.tmp_gs1.md >> README.md
 
 
 
