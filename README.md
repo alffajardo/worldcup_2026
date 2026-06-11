@@ -1,4 +1,4 @@
-Last Update: Thu 11 Jun 2026 16:49:05 EDT
+Last Update: Thu 11 Jun 2026 16:51:39 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -36,6 +36,7 @@ FIFA World Cup 2026 results
 | 019            | Jhonatan Omar Romero Becerril | 1   | 1     |
 | 020            | Julian Santiago Sanchez       | 1   | 1     |
 | 008            | Gov                           | 0   | 0     |
+
 Tie Breaker: Which team will win the world cup?
 
 <img src=media/tiebreak_q1.png alt=tiebreaker_q1 width=400/> 

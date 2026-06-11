@@ -36,7 +36,8 @@ gen_markdowntable.sh --csv <  Overall_scores.csv >> 00.tmp_header.md
 # ----------------------------------------------------------------------------------------------------- |
 # .-----------------------------------------------------------------------------------------------------|
 
-echo "Tie Breaker: Which team will win the world cup?
+echo "
+Tie Breaker: Which team will win the world cup?
 
 <img src="media/tiebreak_q1.png" alt="tiebreaker_q1" width="400"/> " > 01.tmp_gs1.md
 #########------------------------
