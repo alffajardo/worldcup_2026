@@ -113,7 +113,7 @@ addgrid.col = T,tl.col = "Black",
 order = "hclust",   main = "Between-players Similarities",
 mar = c(1,1,1,1),cex.main = 1,
 is.corr = F,
-type = "full",
+type = "full", col.lim = c(0,100),
 hclust.method = "ward.D",tl.cex = 0.5,
 number.digits = 0,cl.cex = 0.5)
 
