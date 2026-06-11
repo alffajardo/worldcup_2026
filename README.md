@@ -1,4 +1,4 @@
-Last Update: Thu 11 Jun 2026 11:09:19 EDT
+Last Update: Thu 11 Jun 2026 11:10:09 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -14,21 +14,6 @@ Last Update: Thu 11 Jun 2026 11:09:19 EDT
 FIFA World Cup 2026 results
 ---
  ## Total Scores
-| Participant_ID | Name                          | GS1 | Total |
-| -------------- | ----------------------------- | --- | ----- |
-| 002            | Alfonso Fajardo               | 17  | 17    |
-| 003            | Ourry                         | 16  | 16    |
-| 001            | Jonathan Gallego              | 15  | 15    |
-| 005            | Ruben Sanchez                 | 15  | 15    |
-| 012            | Bob Ponce                     | 15  | 15    |
-| 006            | Luis L                        | 14  | 14    |
-| 007            | Rodrigo                       | 13  | 13    |
-| 013            | Héctor Eduardo Zepeda Reyes  | 13  | 13    |
-| 017            | Habib Echanove                | 13  | 13    |
-| 011            | Ernesto                       | 12  | 12    |
-| 018            | Mariel                        | 12  | 12    |
-| 019            | Jhonatan Omar Romero Becerril | 12  | 12    |
-| 016            | Ruben G                       | 9   | 9     |
 
  ## <u>**Group Stage 1 (GS1) Picks**</u>
  
