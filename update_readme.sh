@@ -26,6 +26,7 @@ FIFA World Cup 2026 results
 
 echo " ## Total Scores" >> 00.tmp_header.md
 
+Rscript score_picks.R
 gen_markdowntable.sh --csv <  Overall_scores.csv >> 00.tmp_header.md
 
 
