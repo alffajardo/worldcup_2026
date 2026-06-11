@@ -1,4 +1,4 @@
-Last Update: Thu 11 Jun 2026 16:47:15 EDT
+Last Update: Thu 11 Jun 2026 16:48:22 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -14,6 +14,28 @@ Last Update: Thu 11 Jun 2026 16:47:15 EDT
 FIFA World Cup 2026 results
 ---
  ## Total Scores
+| Participant_ID | Name                          | GS1 | Total |
+| -------------- | ----------------------------- | --- | ----- |
+| 001            | Jonathan Gallego              | 1   | 1     |
+| 002            | Alfonso Fajardo               | 1   | 1     |
+| 003            | Ourry                         | 1   | 1     |
+| 004            | Jalil Rasgado Toledo          | 1   | 1     |
+| 005            | Ruben Sanchez                 | 1   | 1     |
+| 006            | Luis L                        | 1   | 1     |
+| 007            | Rodrigo                       | 1   | 1     |
+| 009            | Vladi                         | 1   | 1     |
+| 010            | Daniel Jimenez Gomez          | 1   | 1     |
+| 011            | Ernesto                       | 1   | 1     |
+| 012            | Bob Ponce                     | 1   | 1     |
+| 013            | Héctor Eduardo Zepeda Reyes  | 1   | 1     |
+| 014            | Ahmed Felfel                  | 1   | 1     |
+| 015            | Claudio Pineda                | 1   | 1     |
+| 016            | Ruben G                       | 1   | 1     |
+| 017            | Habib Echanove                | 1   | 1     |
+| 018            | Mariel                        | 1   | 1     |
+| 019            | Jhonatan Omar Romero Becerril | 1   | 1     |
+| 020            | Julian Santiago Sanchez       | 1   | 1     |
+| 008            | Gov                           | 0   | 0     |
 Tie Breaker: Which team will win the world cup?
 
 <img src=media/tiebreak_q1.png alt=tiebreaker_q1 width=400/> 
