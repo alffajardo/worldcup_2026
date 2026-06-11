@@ -58,6 +58,7 @@ echo "### Plots
 <img src="media/picks_GS1.png" alt="picks" width="400"/> " >> 01.tmp_gs1.md
 
 echo "### Picks Similarities
+
 <img src="media/similarities_GS1.png" alt="similarities" width="600"/> " >> 01.tmp_gs1.md
 
 ---

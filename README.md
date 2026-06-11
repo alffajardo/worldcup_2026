@@ -1,4 +1,4 @@
-Last Update: Thu 11 Jun 2026 11:15:23 EDT
+Last Update: Thu 11 Jun 2026 11:16:21 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -43,6 +43,7 @@ FIFA World Cup 2026 results
 
 <img src=media/picks_GS1.png alt=picks width=400/> 
 ### Picks Similarities
+
 <img src=media/similarities_GS1.png alt=similarities width=600/> 
 Top 5 players whos position in the table will change the most after this round
 
