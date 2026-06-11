@@ -35,7 +35,9 @@ gen_markdowntable.sh --csv <  Overall_scores.csv >> 00.tmp_header.md
 # ----------------------------------------------------------------------------------------------------- |
 # .-----------------------------------------------------------------------------------------------------|
 
+echo "Tie Breaker: Which team will win the world cup?
 
+<img src="media/tiebreak_q1.png" alt="tiebreaker_q1" width="400"/> " > 01.tmp_gs1.md
 #########------------------------
 ##          GS1
 ####################################
@@ -47,7 +49,7 @@ Rscript generate_picks_GS1.R
 echo "
  ## <u>**Group Stage 1 (GS1) Picks**</u>
  
- " > 01.tmp_gs1.md
+ " >> 01.tmp_gs1.md
 
 
 gen_markdowntable.sh --csv <  GS1_picks.csv >> 01.tmp_gs1.md

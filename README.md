@@ -1,4 +1,4 @@
-Last Update: Thu 11 Jun 2026 11:35:58 EDT
+Last Update: Thu 11 Jun 2026 11:58:23 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -14,6 +14,9 @@ Last Update: Thu 11 Jun 2026 11:35:58 EDT
 FIFA World Cup 2026 results
 ---
  ## Total Scores
+Tie Breaker: Which team will win the world cup?
+
+<img src=media/tiebreak_q1.png alt=tiebreaker_q1 width=400/> 
 
  ## <u>**Group Stage 1 (GS1) Picks**</u>
  
@@ -27,6 +30,7 @@ FIFA World Cup 2026 results
 | Ruben Sanchez                 | 005            | Mexico                    | South Korea                | Canada                              | USA                | Switzerland             | Brazil               | Scotland             | Türkiye                 | Germany               | Draw                     | Ecuador                    | Sweden                | Spain                    | Belgium               | Uruguay                     | Iran                    | France                 | Norway             | Argentina                 | Draw                  | Portugal                 | England                | Ghana               | Colombia                   |
 | Luis L                        | 006            | Mexico                    | Draw                       | Canada                              | USA                | Switzerland             | Brazil               | Scotland             | Türkiye                 | Germany               | Netherlands              | Draw                       | Sweden                | Spain                    | Belgium               | Uruguay                     | Draw                    | France                 | Norway             | Argentina                 | Austria               | Portugal                 | Draw                   | Ghana               | Colombia                   |
 | Rodrigo                       | 007            | Mexico                    | Draw                       | Draw                                | USA                | Switzerland             | Brazil               | Scotland             | Türkiye                 | Germany               | Netherlands              | Draw                       | Draw                  | Spain                    | Belgium               | Uruguay                     | Draw                    | France                 | Norway             | Argentina                 | Austria               | Portugal                 | England                | Ghana               | Colombia                   |
+| Gov                           | 008            | Draw                      | Draw                       | Canada                              | USA                | Switzerland             | Draw                 | Draw                 | Türkiye                 | Germany               | Netherlands              | Draw                       | Tunisia               | Cape Verde               | Belgium               | Uruguay                     | Iran                    | Senegal                | Draw               | Argentina                 | Austria               | Portugal                 | England                | Draw                | Colombia                   |
 | Vladi                         | 009            | Mexico                    | Draw                       | Canada                              | USA                | Switzerland             | Draw                 | Scotland             | Türkiye                 | Germany               | Netherlands              | Draw                       | Draw                  | Spain                    | Draw                  | Uruguay                     | New Zealand             | France                 | Norway             | Argentina                 | Austria               | Portugal                 | England                | Panama              | Colombia                   |
 | Daniel Jimenez Gomez          | 010            | Mexico                    | Draw                       | Canada                              | Draw               | Switzerland             | Draw                 | Scotland             | Draw                     | Germany               | Japan                    | Ecuador                    | Sweden                | Spain                    | Belgium               | Uruguay                     | Iran                    | France                 | Norway             | Argentina                 | Austria               | Portugal                 | England                | Draw                | Colombia                   |
 | Ernesto                       | 011            | Mexico                    | Draw                       | Draw                                | Draw               | Switzerland             | Brazil               | Scotland             | Türkiye                 | Germany               | Draw                     | Ecuador                    | Sweden                | Spain                    | Belgium               | Uruguay                     | Draw                    | France                 | Norway             | Argentina                 | Austria               | Portugal                 | England                | Ghana               | Colombia                   |
@@ -51,8 +55,8 @@ Top 5 players whos position in the table will change the most after this round
 
 | Name                        | Participant_ID |
 | --------------------------- | -------------- |
-| Héctor Eduardo Zepeda Reyes | 013            |
+| Gov                         | 008            |
 | Ruben G                     | 016            |
+| Héctor Eduardo Zepeda Reyes | 013            |
 | Habib Echanove              | 017            |
 | Vladi                       | 009            |
-| Daniel Jimenez Gomez        | 010            |
