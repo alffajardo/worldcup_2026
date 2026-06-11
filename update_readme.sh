@@ -64,7 +64,7 @@ echo "### Picks Similarities
 
 echo "Top 5 players whos position in the table will change the most after this round" >> 01.tmp_gs1.md
 
-gen_markdowntable.sh --csv <  GS1_top5.csv >> 01.tmp_gs1.md
+gen_markdowntable.sh --csv <  top_GS1.csv >> 01.tmp_gs1.md
 
 ### **Critical Matches in this round**
  

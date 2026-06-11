@@ -1,4 +1,4 @@
-Last Update: Thu 11 Jun 2026 11:10:09 EDT
+Last Update: Thu 11 Jun 2026 11:12:26 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -45,3 +45,10 @@ FIFA World Cup 2026 results
 ### Picks Similarities
 <img src=media/similarities_GS1.png alt=similarities width=600/> 
 Top 5 players whos position in the table will change the most after this round
+| Name                        | Participant_ID |
+| --------------------------- | -------------- |
+| Héctor Eduardo Zepeda Reyes | 013            |
+| Ruben G                     | 016            |
+| Habib Echanove              | 017            |
+| Vladi                       | 009            |
+| Daniel Jimenez Gomez        | 010            |
