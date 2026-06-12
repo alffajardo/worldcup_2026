@@ -1,4 +1,4 @@
-Last Update: Thu 11 Jun 2026 23:56:56 EDT
+Last Update: Fri 12 Jun 2026 17:49:45 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -16,23 +16,23 @@ FIFA World Cup 2026 results
  ## Total Scores
 | Participant_ID | Name                          | GS1 | Total |
 | -------------- | ----------------------------- | --- | ----- |
+| 016            | Ruben G                       | 3   | 3     |
 | 004            | Jalil Rasgado Toledo          | 2   | 2     |
 | 005            | Ruben Sanchez                 | 2   | 2     |
+| 007            | Rodrigo                       | 2   | 2     |
+| 011            | Ernesto                       | 2   | 2     |
 | 013            | Héctor Eduardo Zepeda Reyes  | 2   | 2     |
 | 014            | Ahmed Felfel                  | 2   | 2     |
 | 015            | Claudio Pineda                | 2   | 2     |
-| 016            | Ruben G                       | 2   | 2     |
+| 017            | Habib Echanove                | 2   | 2     |
+| 018            | Mariel                        | 2   | 2     |
 | 001            | Jonathan Gallego              | 1   | 1     |
 | 002            | Alfonso Fajardo               | 1   | 1     |
 | 003            | Ourry                         | 1   | 1     |
 | 006            | Luis L                        | 1   | 1     |
-| 007            | Rodrigo                       | 1   | 1     |
 | 009            | Vladi                         | 1   | 1     |
 | 010            | Daniel Jimenez Gomez          | 1   | 1     |
-| 011            | Ernesto                       | 1   | 1     |
 | 012            | Bob Ponce                     | 1   | 1     |
-| 017            | Habib Echanove                | 1   | 1     |
-| 018            | Mariel                        | 1   | 1     |
 | 019            | Jhonatan Omar Romero Becerril | 1   | 1     |
 | 020            | Julian Santiago Sanchez       | 1   | 1     |
 | 008            | Gov                           | 0   | 0     |
