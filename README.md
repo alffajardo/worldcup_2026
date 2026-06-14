@@ -1,4 +1,4 @@
-Last Update: Sun 14 Jun 2026 13:56:35 EDT
+Last Update: Sun 14 Jun 2026 17:25:29 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -16,26 +16,26 @@ FIFA World Cup 2026 results
  ## Total Scores
 | Participant_ID | Name                          | GS1 | Total |
 | -------------- | ----------------------------- | --- | ----- |
-| 014            | Ahmed Felfel                  | 5   | 5     |
-| 015            | Claudio Pineda                | 5   | 5     |
-| 016            | Ruben G                       | 5   | 5     |
-| 018            | Mariel                        | 5   | 5     |
-| 003            | Ourry                         | 4   | 4     |
-| 004            | Jalil Rasgado Toledo          | 4   | 4     |
-| 005            | Ruben Sanchez                 | 4   | 4     |
-| 007            | Rodrigo                       | 4   | 4     |
-| 009            | Vladi                         | 4   | 4     |
-| 017            | Habib Echanove                | 4   | 4     |
-| 001            | Jonathan Gallego              | 3   | 3     |
-| 002            | Alfonso Fajardo               | 3   | 3     |
-| 006            | Luis L                        | 3   | 3     |
-| 010            | Daniel Jimenez Gomez          | 3   | 3     |
-| 011            | Ernesto                       | 3   | 3     |
-| 012            | Bob Ponce                     | 3   | 3     |
-| 013            | Héctor Eduardo Zepeda Reyes  | 3   | 3     |
-| 008            | Gov                           | 2   | 2     |
-| 019            | Jhonatan Omar Romero Becerril | 2   | 2     |
-| 020            | Julian Santiago Sanchez       | 2   | 2     |
+| 014            | Ahmed Felfel                  | 6   | 6     |
+| 015            | Claudio Pineda                | 6   | 6     |
+| 016            | Ruben G                       | 6   | 6     |
+| 018            | Mariel                        | 6   | 6     |
+| 003            | Ourry                         | 5   | 5     |
+| 004            | Jalil Rasgado Toledo          | 5   | 5     |
+| 005            | Ruben Sanchez                 | 5   | 5     |
+| 007            | Rodrigo                       | 5   | 5     |
+| 009            | Vladi                         | 5   | 5     |
+| 017            | Habib Echanove                | 5   | 5     |
+| 001            | Jonathan Gallego              | 4   | 4     |
+| 002            | Alfonso Fajardo               | 4   | 4     |
+| 006            | Luis L                        | 4   | 4     |
+| 010            | Daniel Jimenez Gomez          | 4   | 4     |
+| 011            | Ernesto                       | 4   | 4     |
+| 012            | Bob Ponce                     | 4   | 4     |
+| 013            | Héctor Eduardo Zepeda Reyes  | 4   | 4     |
+| 008            | Gov                           | 3   | 3     |
+| 019            | Jhonatan Omar Romero Becerril | 3   | 3     |
+| 020            | Julian Santiago Sanchez       | 3   | 3     |
 
 Tie Breaker: Which team will win the world cup?
 
