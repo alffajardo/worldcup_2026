@@ -1,4 +1,4 @@
-Last Update: Mon 15 Jun 2026 15:19:27 EDT
+Last Update: Mon 15 Jun 2026 17:04:10 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -25,13 +25,13 @@ FIFA World Cup 2026 results
 | 001            | Jonathan Gallego              | 6   | 6     |
 | 002            | Alfonso Fajardo               | 6   | 6     |
 | 004            | Jalil Rasgado Toledo          | 6   | 6     |
+| 009            | Vladi                         | 6   | 6     |
 | 011            | Ernesto                       | 6   | 6     |
 | 012            | Bob Ponce                     | 6   | 6     |
 | 013            | Héctor Eduardo Zepeda Reyes  | 6   | 6     |
 | 017            | Habib Echanove                | 6   | 6     |
 | 006            | Luis L                        | 5   | 5     |
 | 007            | Rodrigo                       | 5   | 5     |
-| 009            | Vladi                         | 5   | 5     |
 | 010            | Daniel Jimenez Gomez          | 5   | 5     |
 | 019            | Jhonatan Omar Romero Becerril | 5   | 5     |
 | 008            | Gov                           | 3   | 3     |
