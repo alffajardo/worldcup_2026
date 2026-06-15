@@ -1,4 +1,4 @@
-Last Update: Sun 14 Jun 2026 18:00:16 EDT
+Last Update: Sun 14 Jun 2026 21:01:56 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -16,13 +16,14 @@ FIFA World Cup 2026 results
  ## Total Scores
 | Participant_ID | Name                          | GS1 | Total |
 | -------------- | ----------------------------- | --- | ----- |
-| 014            | Ahmed Felfel                  | 7   | 7     |
+| 014            | Ahmed Felfel                  | 8   | 8     |
 | 016            | Ruben G                       | 7   | 7     |
 | 018            | Mariel                        | 7   | 7     |
+| 003            | Ourry                         | 6   | 6     |
 | 005            | Ruben Sanchez                 | 6   | 6     |
 | 015            | Claudio Pineda                | 6   | 6     |
 | 001            | Jonathan Gallego              | 5   | 5     |
-| 003            | Ourry                         | 5   | 5     |
+| 002            | Alfonso Fajardo               | 5   | 5     |
 | 004            | Jalil Rasgado Toledo          | 5   | 5     |
 | 007            | Rodrigo                       | 5   | 5     |
 | 009            | Vladi                         | 5   | 5     |
@@ -30,7 +31,6 @@ FIFA World Cup 2026 results
 | 012            | Bob Ponce                     | 5   | 5     |
 | 013            | Héctor Eduardo Zepeda Reyes  | 5   | 5     |
 | 017            | Habib Echanove                | 5   | 5     |
-| 002            | Alfonso Fajardo               | 4   | 4     |
 | 006            | Luis L                        | 4   | 4     |
 | 010            | Daniel Jimenez Gomez          | 4   | 4     |
 | 019            | Jhonatan Omar Romero Becerril | 4   | 4     |
