@@ -73,9 +73,11 @@ echo "### Plots
 
 echo "### Picks Similarities
 
-<img src="media/similarities_GS1.png" alt="similarities" width="600"/> " >> 01.tmp_gs1.md
+<img src="media/similarities_GS1.png" alt="similarities" width="600"/> 
 
----
+---" >> 01.tmp_gs1.md
+
+
 
 echo "Top 5 players whos position in the table will change the most after this round
 
