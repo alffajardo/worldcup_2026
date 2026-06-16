@@ -1,4 +1,4 @@
-Last Update: Tue 16 Jun 2026 12:32:27 EDT
+Last Update: Tue 16 Jun 2026 12:34:35 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -36,6 +36,12 @@ FIFA World Cup 2026 results
 | 010            | Daniel Jimenez Gomez          | 5   | 5     |
 | 008            | Gov                           | 3   | 3     |
 | 020            | Julian Santiago Sanchez       | 3   | 3     |
+Tie-Breaker 1 : Which team will win the world cup?
+
+<img src=media/tiebreak_q1.png alt=tiebreaker_q1 width=400/> 
+Tie-Breaker 2: How far will Mexico advance in the tournament?
+
+<img src=media/tiebreak_q2.png alt=tiebreaker_q2 width=400/> 
 Tie-Breaker 3: How far will Canada advance in the tournament?
 
 <img src=media/tiebreak_q3.png alt=tiebreaker_q3 width=400/> 
