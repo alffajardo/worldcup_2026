@@ -47,7 +47,8 @@ echo "Tie-Breaker 2: How far will Mexico advance in the tournament?
 
 echo "Tie-Breaker 3: How far will Canada advance in the tournament?
 
-<img src="media/tiebreak_q3.png" alt="tiebreaker_q3" width="400"/> " >> 00.tmp_header.md
+<img src="media/tiebreak_q3.png" alt="tiebreaker_q3" width="400"/> 
+" >> 00.tmp_header.md
 #########------------------------
 ##          GS1
 ####################################

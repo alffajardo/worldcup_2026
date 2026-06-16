@@ -1,4 +1,4 @@
-Last Update: Tue 16 Jun 2026 12:36:44 EDT
+Last Update: Tue 16 Jun 2026 12:36:59 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -45,6 +45,7 @@ Tie-Breaker 2: How far will Mexico advance in the tournament?
 Tie-Breaker 3: How far will Canada advance in the tournament?
 
 <img src=media/tiebreak_q3.png alt=tiebreaker_q3 width=400/> 
+
 
  ## <u>**Group Stage 1 (GS1) Picks**</u>
  
