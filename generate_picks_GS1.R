@@ -133,3 +133,36 @@ write.table(top,"top_GS1.csv",
     quote = F, 
     row.names = F)
 
+
+
+picks$`How far will Mexico advance in the tournament?` <- factor(
+  picks$`How far will Mexico advance in the tournament?`,
+  levels = c("Round of 16", "Quarter-Finals", "Semi-Finals")
+)
+# generate a few plots to see the tibreak question
+
+tiebreak2 <- picks$`How far will Mexico advance in the tournament?` %>%
+table * 100 / 20
+
+pdf(NULL)
+barplot(tiebreak2,col = c("darkgreen","white","darkred"),
+        main = "Mexico's performance Forecast",
+        ylab = "Votes (%)")
+dev.off()
+# tiebreak 2
+
+
+
+picks$`How far will Canada advance in the tournament?` <- factor(
+  picks$`How far will Canada advance in the tournament?`,
+  levels = c("Round of 32", "Round of 16", "Quarter-Finals")
+)
+
+tiebreak3 <- picks$`How far will Canada advance in the tournament?` %>%
+  table* 100 / 20
+
+pdf(NULL)
+barplot(tiebreak3,col = c("red2","white","red2"),
+        main = "Canadas's performance Forecast",
+        ylab = "Votes (%)")
+dev.off()
