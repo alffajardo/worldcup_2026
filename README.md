@@ -1,4 +1,4 @@
-Last Update: Tue 16 Jun 2026 12:42:14 EDT
+Last Update: Tue 16 Jun 2026 12:43:21 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -36,6 +36,7 @@ FIFA World Cup 2026 results
 | 010            | Daniel Jimenez Gomez          | 5   | 5     |
 | 008            | Gov                           | 3   | 3     |
 | 020            | Julian Santiago Sanchez       | 3   | 3     |
+
 Tie-Breaker 1 : Which team will win the world cup?
 
 <img src=media/tiebreak_q1.png alt=tiebreaker_q1 width=400/> 
@@ -73,7 +74,6 @@ Tie-Breaker 3: How far will Canada advance in the tournament?
 | Jhonatan Omar Romero Becerril | 019            | Mexico                    | Draw                       | Canada                              | USA                | Switzerland             | Brazil               | Draw                 | Türkiye                 | Germany               | Draw                     | Draw                       | Sweden                | Spain                    | Belgium               | Uruguay                     | Draw                    | France                 | Norway             | Argentina                 | Draw                  | Portugal                 | England                | Draw                | Colombia                   |
 | Julian Santiago Sanchez       | 020            | Mexico                    | Draw                       | Canada                              | USA                | Switzerland             | Brazil               | Draw                 | Draw                     | Germany               | Netherlands              | Draw                       | Draw                  | Spain                    | Belgium               | Uruguay                     | Iran                    | France                 | Norway             | Argentina                 | Austria               | Portugal                 | England                | Draw                | Colombia                   |
 ### Plots
-
 <img src=media/picks_GS1.png alt=picks width=400/> 
 ### Picks Similarities
 
