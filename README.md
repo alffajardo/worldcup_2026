@@ -1,4 +1,4 @@
-Last Update: Wed 17 Jun 2026 10:24:46 EDT
+Last Update: Wed 17 Jun 2026 10:31:29 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -82,7 +82,7 @@ Tie-Breaker 3: How far will Canada advance in the tournament?
 <img src=media/similarities_GS1.png alt=similarities width=600/> 
 
 ---
-Top 5 players whos position in the table will change the most after this round
+Noticeable players in this round:
 
 
 

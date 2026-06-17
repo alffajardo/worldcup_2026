@@ -24,6 +24,45 @@ echo "# **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 FIFA World Cup 2026 results
 ---" >> 00.tmp_header.md
 
+#########------------------------
+##          GS1
+####################################
+
+## GROUP stage one
+
+Rscript generate_picks_GS1.R
+
+echo "
+ ## <u>**Group Stage 1 (GS1) Picks**</u>
+ 
+ " >> 01.tmp_gs1.md
+
+
+gen_markdowntable.sh --csv <  GS1_picks.csv >> 01.tmp_gs1.md
+
+
+echo "### Plots
+<img src="media/picks_GS1.png" alt="picks" width="400"/> " >> 01.tmp_gs1.md
+
+echo "### Picks Similarities
+
+<img src="media/similarities_GS1.png" alt="similarities" width="600"/> 
+
+---" >> 01.tmp_gs1.md
+
+
+
+echo "Noticeable players in this round:
+
+" >> 01.tmp_gs1.md
+echo >> 01.tmp_gs1.md
+
+gen_markdowntable.sh --csv <  top_GS1.csv >> 01.tmp_gs1.md
+
+### **Critical Matches in this round**
+
+Rscript score_picks.R
+
 echo " ## Total Scores" >> 00.tmp_header.md
 
 gen_markdowntable.sh --csv <  Overall_scores.csv >> 00.tmp_header.md
@@ -53,42 +92,6 @@ Tie-Breaker 3: How far will Canada advance in the tournament?
 
 <img src="media/tiebreak_q3.png" alt="tiebreaker_q3" width="400"/> 
 " >> 00.tmp_header.md
-#########------------------------
-##          GS1
-####################################
-
-## GROUP stage one
-
-Rscript generate_picks_GS1.R
-
-echo "
- ## <u>**Group Stage 1 (GS1) Picks**</u>
- 
- " >> 01.tmp_gs1.md
-
-
-gen_markdowntable.sh --csv <  GS1_picks.csv >> 01.tmp_gs1.md
-
-
-echo "### Plots
-<img src="media/picks_GS1.png" alt="picks" width="400"/> " >> 01.tmp_gs1.md
-
-echo "### Picks Similarities
-
-<img src="media/similarities_GS1.png" alt="similarities" width="600"/> 
-
----" >> 01.tmp_gs1.md
-
-
-
-echo "Top 5 players whos position in the table will change the most after this round
-
-" >> 01.tmp_gs1.md
-echo >> 01.tmp_gs1.md
-
-gen_markdowntable.sh --csv <  top_GS1.csv >> 01.tmp_gs1.md
-
-### **Critical Matches in this round**
  
 cat 00.tmp_header.md 01.tmp_gs1.md > README.md
 
