@@ -1,4 +1,4 @@
-Last Update: Thu 18 Jun 2026 15:11:07 EDT
+Last Update: Thu 18 Jun 2026 17:04:22 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -16,25 +16,25 @@ FIFA World Cup 2026 results
  ## Total Scores
 | Participant_ID | Name                          | GS1 | GS2 | Total |
 | -------------- | ----------------------------- | --- | --- | ----- |
-| 003            | Valentin OURRY                | 15  | 1   | 16    |
-| 011            | Ernesto                       | 14  | 0   | 14    |
-| 014            | Ahmed Felfel                  | 14  | 0   | 14    |
-| 015            | Claudio                       | 14  | 0   | 14    |
-| 018            | Mariel                        | 14  | 0   | 14    |
-| 001            | Jonathan Gallego              | 13  | 0   | 13    |
+| 003            | Valentin OURRY                | 15  | 2   | 17    |
+| 011            | Ernesto                       | 14  | 1   | 15    |
+| 014            | Ahmed Felfel                  | 14  | 1   | 15    |
+| 015            | Claudio                       | 14  | 1   | 15    |
+| 018            | Mariel                        | 14  | 1   | 15    |
+| 001            | Jonathan Gallego              | 13  | 1   | 14    |
+| 007            | Rodrigo                       | 13  | 1   | 14    |
+| 012            | Roberto Ponce                 | 13  | 1   | 14    |
+| 016            | Ruben G                       | 13  | 1   | 14    |
 | 002            | Alfonso Fajardo               | 13  | 0   | 13    |
 | 005            | Ruben Sanchez Corona          | 13  | 0   | 13    |
-| 007            | Rodrigo                       | 13  | 0   | 13    |
+| 006            | Luis L                        | 12  | 1   | 13    |
 | 009            | Vladi                         | 12  | 1   | 13    |
-| 012            | Roberto Ponce                 | 13  | 0   | 13    |
 | 013            | Héctor Zepeda                | 13  | 0   | 13    |
-| 016            | Ruben G                       | 13  | 0   | 13    |
-| 006            | Luis L                        | 12  | 0   | 12    |
+| 010            | Daniel Jimenez Gomez          | 11  | 1   | 12    |
+| 017            | HABIB E                       | 11  | 1   | 12    |
+| 019            | Jhonatan Omar Romero Becerril | 11  | 1   | 12    |
 | 004            | Jalil Rasgado Toledo          | 11  | 0   | 11    |
-| 010            | Daniel Jimenez Gomez          | 11  | 0   | 11    |
-| 017            | HABIB E                       | 11  | 0   | 11    |
-| 019            | Jhonatan Omar Romero Becerril | 11  | 0   | 11    |
-| 020            | Julian                        | 9   | 0   | 9     |
+| 020            | Julian                        | 9   | 1   | 10    |
 | 008            | Gov                           | 7   | 0   | 7     |
 
 Tie-Breaker 1 : Which team will win the world cup?
