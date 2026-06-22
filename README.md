@@ -1,4 +1,4 @@
-Last Update: Sun 21 Jun 2026 12:57:05 EDT
+Last Update: Sun 21 Jun 2026 22:22:54 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -16,26 +16,26 @@ FIFA World Cup 2026 results
  ## Total Scores
 | Participant_ID | Name                          | GS1 | GS2 | Total |
 | -------------- | ----------------------------- | --- | --- | ----- |
-| 003            | Valentin OURRY                | 15  | 9   | 24    |
-| 011            | Ernesto                       | 14  | 9   | 23    |
-| 001            | Jonathan Gallego              | 13  | 9   | 22    |
-| 012            | Roberto Ponce                 | 13  | 9   | 22    |
-| 015            | Claudio                       | 14  | 8   | 22    |
-| 006            | Luis L                        | 12  | 9   | 21    |
-| 007            | Rodrigo                       | 13  | 8   | 21    |
-| 014            | Ahmed Felfel                  | 14  | 7   | 21    |
-| 016            | Ruben G                       | 13  | 8   | 21    |
-| 018            | Mariel                        | 14  | 7   | 21    |
-| 002            | Alfonso Fajardo               | 13  | 7   | 20    |
-| 005            | Ruben Sanchez Corona          | 13  | 7   | 20    |
-| 013            | Héctor Zepeda                | 13  | 7   | 20    |
-| 004            | Jalil Rasgado Toledo          | 11  | 8   | 19    |
-| 009            | Vladi                         | 12  | 6   | 18    |
-| 010            | Daniel Jimenez Gomez          | 11  | 7   | 18    |
-| 017            | HABIB E                       | 11  | 7   | 18    |
-| 019            | Jhonatan Omar Romero Becerril | 11  | 7   | 18    |
-| 020            | Julian                        | 9   | 8   | 17    |
-| 008            | Gov                           | 7   | 6   | 13    |
+| 003            | Valentin OURRY                | 15  | 10  | 25    |
+| 011            | Ernesto                       | 14  | 10  | 24    |
+| 001            | Jonathan Gallego              | 13  | 10  | 23    |
+| 012            | Roberto Ponce                 | 13  | 10  | 23    |
+| 015            | Claudio                       | 14  | 9   | 23    |
+| 006            | Luis L                        | 12  | 10  | 22    |
+| 007            | Rodrigo                       | 13  | 9   | 22    |
+| 014            | Ahmed Felfel                  | 14  | 8   | 22    |
+| 016            | Ruben G                       | 13  | 9   | 22    |
+| 018            | Mariel                        | 14  | 8   | 22    |
+| 002            | Alfonso Fajardo               | 13  | 8   | 21    |
+| 005            | Ruben Sanchez Corona          | 13  | 8   | 21    |
+| 013            | Héctor Zepeda                | 13  | 8   | 21    |
+| 004            | Jalil Rasgado Toledo          | 11  | 9   | 20    |
+| 009            | Vladi                         | 12  | 7   | 19    |
+| 010            | Daniel Jimenez Gomez          | 11  | 8   | 19    |
+| 017            | HABIB E                       | 11  | 8   | 19    |
+| 019            | Jhonatan Omar Romero Becerril | 11  | 8   | 19    |
+| 020            | Julian                        | 9   | 9   | 18    |
+| 008            | Gov                           | 7   | 8   | 15    |
 
 Tie-Breaker 1 : Which team will win the world cup?
 
