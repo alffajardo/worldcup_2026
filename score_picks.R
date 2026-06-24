@@ -120,7 +120,7 @@ scores <- data.frame(Participant_ID,Name, GS1,GS2,GS3) %>%
   group_by (Participant_ID) 
 
 scores <- scores %>%
-  mutate(Total = sum(GS1,GS2,na.rm = T)) %>%
+  mutate(Total = sum(GS1,GS2,GS3,na.rm = T)) %>%
   ungroup %>%
   arrange(desc(Total),Participant_ID)
 

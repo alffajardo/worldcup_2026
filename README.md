@@ -1,4 +1,4 @@
-Last Update: Wed 24 Jun 2026 17:38:49 EDT
+Last Update: Wed 24 Jun 2026 17:40:10 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -19,13 +19,13 @@ FIFA World Cup 2026 results
 | 003            | Valentin OURRY                | 15  | 17  | 0   | 32    |
 | 011            | Ernesto                       | 14  | 17  | 0   | 31    |
 | 012            | Roberto Ponce                 | 13  | 18  | 0   | 31    |
+| 018            | Mariel                        | 14  | 16  | 1   | 31    |
 | 001            | Jonathan Gallego              | 13  | 17  | 0   | 30    |
 | 015            | Claudio                       | 14  | 16  | 0   | 30    |
-| 018            | Mariel                        | 14  | 16  | 1   | 30    |
+| 016            | Ruben G                       | 13  | 16  | 1   | 30    |
 | 006            | Luis L                        | 12  | 17  | 0   | 29    |
 | 007            | Rodrigo                       | 13  | 16  | 0   | 29    |
 | 014            | Ahmed Felfel                  | 14  | 15  | 0   | 29    |
-| 016            | Ruben G                       | 13  | 16  | 1   | 29    |
 | 002            | Alfonso Fajardo               | 13  | 15  | 0   | 28    |
 | 013            | Héctor Zepeda                | 13  | 15  | 0   | 28    |
 | 005            | Ruben Sanchez Corona          | 13  | 14  | 0   | 27    |
