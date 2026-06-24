@@ -80,9 +80,43 @@ GS2 <- rowSums(GS2_all)
 scores_GS2 <- data.frame(Participant_ID,GS2_all)
 
 
+# Score round 3
+
+GS3_picks <- read_csv("GS3_picks.csv")
+
+matches <- drive_find(pattern = "matches_wc2026",type = "spreadsheet",n_max=1)$id
+
+
+matches <- read_sheet(matches) %>%
+  filter(complete.cases(.)) %>% 
+  mutate(GD = abs(Goals_Local - Goals_Visitor))
+
+
+
+GS3_picks2 <- select(GS3_picks,-c(1,2))
+
+
+GS3 <- matches %>%
+  filter (Round == "M3") %>%
+  select(Result) %>%
+  as.vector() %>%
+  unlist() 
+
+
+
+match_names <- names(GS3_picks2)[1:length(GS3)] 
+
+# temporalmente se dejará asi
+GS3_all <- map_dfc(1:length(GS3),~if_else( GS3[.x] == GS3_picks2[,.x],true = 1,0)) %>%
+  set_names(match_names)
+
+GS3 <- rowSums(GS3_all)
+
+scores_GS3 <- data.frame(Participant_ID,GS3_all)
+
 
 ### Escribir el output
-scores <- data.frame(Participant_ID,Name, GS1,GS2) %>%
+scores <- data.frame(Participant_ID,Name, GS1,GS2,GS3) %>%
   group_by (Participant_ID) 
 
 scores <- scores %>%
@@ -99,4 +133,8 @@ write.table(scores_GS1, "GS1_complete_scores.csv",sep = ",",
 
 write.table(scores_GS2, "GS2_complete_scores.csv",sep = ",",
             quote = F ,row.names = F )
+
+write.table(scores_GS3, "GS3_complete_scores.csv",sep = ",",
+            quote = F ,row.names = F )
+
 
