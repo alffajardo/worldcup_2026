@@ -12,7 +12,7 @@ library(tidyr)
 options(gargle_oauth_email = TRUE)
 drive_auth(email = TRUE)
 
-picks_id <- drive_find(type = "spreadsheet",pattern = "WC2026_GS2",
+picks_id <- drive_find(type = "spreadsheet",pattern = "WC2026_GS3",
 n_max = 1)$id
 
 
@@ -22,7 +22,7 @@ picks <- read_sheet(picks_id)
 picks$Participant_ID <- as.character( as.character(picks$Participant_ID)) %>%
                         str_pad(pad = "0", side = "left", width = 3)
 
-bets <- picks[,c(3,4,5:28)] %>%
+bets <- picks[,c(4,5,6:29)] %>%
 tibble() %>%
 arrange(Participant_ID)
 
@@ -56,7 +56,7 @@ setNames(bets2$Match)
 
 
 
-png("media/picks_GS2.png",width = 20,height = 20,units = "cm",
+png("media/picks_GS3.png",width = 20,height = 20,units = "cm",
     res = 196)
 par(mfrow = c(6,4),
     mar = c( 3,3,3,3),
@@ -103,7 +103,7 @@ similarities[i,] <- y
 similarities <- similarities / 24 * 100
 diag(similarities) <- NA
 
-png(filename = "media/similarities_GS2.png",
+png(filename = "media/similarities_GS3.png",
     width = 10,height = 10,units = "cm",res = 196)
 par = c(bg = "gray85")
 corrplot(similarities,
@@ -128,7 +128,7 @@ arrange(delta) %>%
 select(1:2) %>%
 head(n = 5)
 
-write.table(top,"top_GS2.csv", 
+write.table(top,"top_GS3.csv", 
     sep = ',', 
     quote = F, 
     row.names = F)

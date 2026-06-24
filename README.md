@@ -1,4 +1,4 @@
-Last Update: Wed 24 Jun 2026 11:14:05 EDT
+Last Update: Wed 24 Jun 2026 12:06:08 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -49,6 +49,28 @@ Tie-Breaker 3: How far will Canada advance in the tournament?
 
 <img src=media/tiebreak_q3.png alt=tiebreaker_q3 width=400/> 
 
+
+ ## <u>**Group Stage 3 (GS3) Picks**</u>
+ 
+ 
+### Plots
+<img src=media/picks_GS3.png alt=picks width=400/> 
+### Picks Similarities
+
+<img src=media/similarities_GS3.png alt=similarities width=600/> 
+
+---
+Noticeable players in this round:
+
+
+
+| Name                          | Participant_ID |
+| ----------------------------- | -------------- |
+| Habib                         | 017            |
+| Jalil Rasgado Toledo          | 004            |
+| Mariel g                      | 018            |
+| Jhonatan Omar Romero Becerril | 019            |
+| Héctor Zepeda                | 013            |
 
  ## <u>**Group Stage 2 (GS2) Picks**</u>
  
