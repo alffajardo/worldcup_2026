@@ -29,7 +29,7 @@ arrange(Participant_ID)
 
 
 
-write.table(bets,"GS2_picks.csv",sep=",",
+write.table(bets,"GS3_picks.csv",sep=",",
 quote = F,
 row.names =F )
 
