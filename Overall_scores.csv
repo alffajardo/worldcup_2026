@@ -1,21 +1,21 @@
 Participant_ID,Name,GS1,GS2,GS3,Total
-003,Valentin OURRY,15,17,1,33
-011,Ernesto,14,17,1,32
-012,Roberto Ponce,13,18,1,32
-018,Mariel,14,16,2,32
-001,Jonathan Gallego,13,17,1,31
-015,Claudio,14,16,1,31
-016,Ruben G,13,16,2,31
-006,Luis L,12,17,1,30
-007,Rodrigo,13,16,1,30
-002,Alfonso Fajardo,13,15,1,29
-014,Ahmed Felfel,14,15,0,29
-005,Ruben Sanchez Corona,13,14,1,28
-013,Héctor Zepeda,13,15,0,28
-017,HABIB E,11,16,1,28
-009,Vladi,12,14,1,27
-010,Daniel Jimenez Gomez,11,15,1,27
-004,Jalil Rasgado Toledo,11,15,0,26
-019,Jhonatan Omar Romero Becerril,11,14,0,25
-020,Julian,9,15,1,25
-008,Gov,7,15,1,23
+003,Valentin OURRY,15,17,4,36
+011,Ernesto,14,17,4,35
+012,Roberto Ponce,13,18,4,35
+001,Jonathan Gallego,13,17,4,34
+015,Claudio,14,16,4,34
+016,Ruben G,13,16,5,34
+018,Mariel,14,16,4,34
+006,Luis L,12,17,4,33
+007,Rodrigo,13,16,4,33
+014,Ahmed Felfel,14,15,4,33
+002,Alfonso Fajardo,13,15,4,32
+005,Ruben Sanchez Corona,13,14,4,31
+013,Héctor Zepeda,13,15,3,31
+009,Vladi,12,14,4,30
+010,Daniel Jimenez Gomez,11,15,4,30
+017,HABIB E,11,16,3,30
+004,Jalil Rasgado Toledo,11,15,3,29
+019,Jhonatan Omar Romero Becerril,11,14,3,28
+020,Julian,9,15,4,28
+008,Gov,7,15,4,26
