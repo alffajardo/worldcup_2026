@@ -10,8 +10,7 @@ matches <- read_sheet(matches_id)
 setwd("flags/")
 for (i in 1:nrow(matches)){
 
-
-
+ i = 73
 flags <- dir(pattern = "*png")
 
 match <- stringr::str_pad(as.character(i),
@@ -46,5 +45,4 @@ rm(i)
 par(mfrow = c(2,2),bg="gray")
 
 
-setwd("..")
-
+setwd("
