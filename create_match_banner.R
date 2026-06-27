@@ -45,4 +45,5 @@ rm(i)
 par(mfrow = c(2,2),bg="gray")
 
 
-setwd("
+setwd("..")
+
