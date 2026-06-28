@@ -80,7 +80,7 @@ ggsave("picks_K16.png",plot = plot1,units = "px",width = 1200,height = 1200,
 
  plot2 <- scores_prediction %>%
           filter(complete.cases(.)) %>%
-  pivot_longer(cols = -c(1,2),names_to = "Match",values_to = "Score") %>%
+  pivot_longer(cols = -1,names_to = "Match",values_to = "Score") %>%
   group_by(Match) %>%
   count(Score) %>%
   ggplot(aes(x = Score, y = n))+
@@ -89,7 +89,7 @@ ggsave("picks_K16.png",plot = plot1,units = "px",width = 1200,height = 1200,
   theme_minimal()+
     theme(axis.text.x = element_text( face = 2, angle = 65))+
     xlab(" ")+
-    ylab("Frecuencia")
+    ylab("Frequency")
 
-  ggsave("predicted_scores_K08.png",plot = plot2,units = "px",width = 1200,height = 1000,
+  ggsave("predicted_scores_K16.png",plot = plot2,units = "px",width = 1200,height = 1000,
         path = "media",dpi = 200,bg="white")

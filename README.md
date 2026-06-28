@@ -1,4 +1,4 @@
-Last Update: Sun 28 Jun 2026 12:39:52 EDT
+Last Update: Sun 28 Jun 2026 13:00:54 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -49,6 +49,62 @@ Tie-Breaker 3: How far will Canada advance in the tournament?
 
 <img src=media/tiebreak_q3.png alt=tiebreaker_q3 width=400/> 
 
+
+ ## <u>** Knock Out Stage Round of 32 Picks**</u>
+ 
+ 
+| Name                          | Participant_ID | South Africa vs Canada |
+| ----------------------------- | -------------- | ---------------------- |
+| Jonathan                      | 001            | Canada                 |
+| Alfonso Fajardo               | 002            | Canada                 |
+| Valentin                      | 003            | Canada                 |
+| Jalil Rasgado Toledo          | 004            | Canada                 |
+| Rubén Sánchez               | 005            | Canada                 |
+| Luis L                        | 006            | Canada                 |
+| Rodrigo                       | 007            | Canada                 |
+| Govind Mohan                  | 008            | Canada                 |
+| Vladi                         | 009            | Canada                 |
+| Daniel Jimenez Gomez          | 010            | Canada                 |
+| Ernesto                       | 011            | Canada                 |
+| Roberto Ponce                 | 012            | Canada                 |
+| Hector Zepeda                 | 013            | Canada                 |
+| Ahmed Felfel                  | 014            | Canada                 |
+| Claudio                       | 015            | South Africa           |
+| Ruben G                       | 016            | Canada                 |
+| Habib Echanove                | 017            | Canada                 |
+| Mariel                        | 018            | Canada                 |
+| Jhonatan Omar Romero Becerril | 019            | Canada                 |
+| Julian SaSa                   | 020            | Canada                 |
+
+ ## <u>**Score Predictions**</u>
+
+ 
+| Participant_ID | South Africa vs Canada Predicted Score |
+| -------------- | -------------------------------------- |
+| 001            | 1-2                                    |
+| 002            | 1-1                                    |
+| 003            | 0-1                                    |
+| 004            | 1-2                                    |
+| 005            | 1-2                                    |
+| 006            | 0-1                                    |
+| 007            | 0-1                                    |
+| 008            | 1-2                                    |
+| 009            | 0-2                                    |
+| 010            | 1-2                                    |
+| 011            | 1-2                                    |
+| 012            | 1-1                                    |
+| 013            | 1-3                                    |
+| 014            | 1-3                                    |
+| 015            | 1-1                                    |
+| 016            | 0-1                                    |
+| 017            | 0-1                                    |
+| 018            | 1-2                                    |
+| 019            | 0-2                                    |
+| 020            | 1-2                                    |
+
+![](media/predicted_scores_K16.png)
+
+- - - 
 
  ## <u>**Group Stage 3 (GS3) Picks**</u>
  

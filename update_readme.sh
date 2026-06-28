@@ -25,6 +25,29 @@ FIFA World Cup 2026 results
 ---" >> 00.tmp_header.md
 
 #########------------------------
+##          KO 16
+####################################
+Rscript generate_picks_k16.R
+
+echo "
+ ## <u>** Knock Out Stage Round of 32 Picks**</u>
+ 
+ " > 04.tmp_ko16.md
+ gen_markdowntable.sh --csv < K16_picks.csv  >> 04.tmp_ko16.md
+
+echo "
+ ## <u>**Score Predictions**</u>
+
+ " >> 04.tmp_ko16.md
+
+ gen_markdowntable.sh --csv < K16_predicted_scores.csv  >> 04.tmp_ko16.md
+
+echo "
+![](media/predicted_scores_K16.png)
+
+- - - " >> 04.tmp_ko16.md
+
+#########------------------------
 ##          GS3
 ####################################
 Rscript generate_picks_GS3.R
@@ -32,7 +55,9 @@ Rscript generate_picks_GS3.R
 echo "
  ## <u>**Group Stage 3 (GS3) Picks**</u>
  
- " >> 03.tmp_gs3.md
+ " > 03.tmp_gs3.md
+# scores 
+
 
 
 gen_markdowntable.sh --csv <  GS3_picks.csv >> 03.tmp_gs3.md
@@ -157,7 +182,7 @@ Tie-Breaker 3: How far will Canada advance in the tournament?
 <img src="media/tiebreak_q3.png" alt="tiebreaker_q3" width="400"/> 
 " >> 00.tmp_header.md
  
-cat 00.tmp_header.md 03.tmp_gs3.md 02.tmp_gs2.md 01.tmp_gs1.md > README.md
+cat 00.tmp_header.md  04.tmp_ko16.md 03.tmp_gs3.md 02.tmp_gs2.md 01.tmp_gs1.md > README.md
 
 
 
