@@ -30,7 +30,7 @@ FIFA World Cup 2026 results
 Rscript generate_picks_k16.R
 
 echo "
- ## <u>** Knock Out Stage Round of 32 Picks**</u>
+ ## <u>**Knock Out Stage Round of 32 Picks**</u>
  
  " > 04.tmp_ko16.md
  gen_markdowntable.sh --csv < K16_picks.csv  >> 04.tmp_ko16.md

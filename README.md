@@ -1,4 +1,4 @@
-Last Update: Sun 28 Jun 2026 13:00:54 EDT
+Last Update: Sun 28 Jun 2026 13:02:56 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -50,7 +50,7 @@ Tie-Breaker 3: How far will Canada advance in the tournament?
 <img src=media/tiebreak_q3.png alt=tiebreaker_q3 width=400/> 
 
 
- ## <u>** Knock Out Stage Round of 32 Picks**</u>
+ ## <u>**Knock Out Stage Round of 32 Picks**</u>
  
  
 | Name                          | Participant_ID | South Africa vs Canada |
