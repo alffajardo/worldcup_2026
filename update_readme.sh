@@ -40,6 +40,11 @@ echo "
 
  " >> 04.tmp_ko16.md
 
+ echo "
+![](media/picks_K16.png)
+
+- - - " >> 04.tmp_ko16.md
+
  gen_markdowntable.sh --csv < K16_predicted_scores.csv  >> 04.tmp_ko16.md
 
 echo "

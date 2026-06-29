@@ -1,4 +1,4 @@
-Last Update: Mon 29 Jun 2026 12:11:42 EDT
+Last Update: Mon 29 Jun 2026 12:16:45 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -79,6 +79,10 @@ Tie-Breaker 3: How far will Canada advance in the tournament?
  ## <u>**Score Predictions**</u>
 
  
+
+![](media/picks_K16.png)
+
+- - - 
 | Participant_ID | X73..South.Africa.vs.Canada.Predicted.Score | X74..Brazil.vs.Japan.Predicted.Score | X75..Germany.vs.Paraguay.Predicted.Score | X76..Netherlands.vs.Morocco.Predicted.Score | X77..Ivory.Coast.vs.Norway.Predicted.Score | X78..France.vs.Sweden.Predicted.Score | X79..Mexico.vs.Ecuador.Predicted.Score | X80..England.vs.DR.Congo.Predicted.Score | X81..Belgium.vs.Senegal.Predicted.Score | X82..USA.vs.Bosnia.and.Herzegovina.Predicted.Score | X83..Spain.vs.Austria.Predicted.Score | X84..Portugal.vs.Croatia.Predicted.Score | X85..Switzerland.vs.Algeria.Predicted.Score | X86..Australia.vs.Egypt.Predicted.Score | X87..Argentina.vs.Cape.Verde.Predicted.Score | X88..Colombia.vs.Ghana.Predicted.Score |
 | -------------- | ------------------------------------------- | ------------------------------------ | ---------------------------------------- | ------------------------------------------- | ------------------------------------------ | ------------------------------------- | -------------------------------------- | ---------------------------------------- | --------------------------------------- | -------------------------------------------------- | ------------------------------------- | ---------------------------------------- | ------------------------------------------- | --------------------------------------- | -------------------------------------------- | -------------------------------------- |
 | 001            | 1-2                                         | 2-1                                  | 2-0                                      | 2-1                                         | 1-3                                        | 3-1                                   | 1-0                                    | 2-0                                      | 2-1                                     | 3-1                                                | 2-0                                   | 2-0                                      | 1-0                                         | 1-1                                     | 3-0                                          | 1-0                                    |
