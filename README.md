@@ -1,4 +1,4 @@
-Last Update: Mon 29 Jun 2026 00:30:19 EDT
+Last Update: Mon 29 Jun 2026 11:23:41 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -53,54 +53,35 @@ Tie-Breaker 3: How far will Canada advance in the tournament?
  ## <u>**Knock Out Stage Round of 32 Picks**</u>
  
  
-| Name                          | Participant_ID | 73. South Africa vs Canada |
-| ----------------------------- | -------------- | -------------------------- |
-| Jonathan                      | 001            | Canada                     |
-| Alfonso Fajardo               | 002            | Canada                     |
-| Valentin                      | 003            | Canada                     |
-| Jalil Rasgado Toledo          | 004            | Canada                     |
-| Rubén Sánchez               | 005            | Canada                     |
-| Luis L                        | 006            | Canada                     |
-| Rodrigo                       | 007            | Canada                     |
-| Govind Mohan                  | 008            | Canada                     |
-| Vladi                         | 009            | Canada                     |
-| Daniel Jimenez Gomez          | 010            | Canada                     |
-| Ernesto                       | 011            | Canada                     |
-| Roberto Ponce                 | 012            | Canada                     |
-| Hector Zepeda                 | 013            | Canada                     |
-| Ahmed Felfel                  | 014            | Canada                     |
-| Claudio                       | 015            | South Africa               |
-| Ruben G                       | 016            | Canada                     |
-| Habib Echanove                | 017            | Canada                     |
-| Mariel                        | 018            | Canada                     |
-| Jhonatan Omar Romero Becerril | 019            | Canada                     |
-| Julian SaSa                   | 020            | Canada                     |
+| Name                          | Participant_ID | 73. South Africa vs Canada | 74. Brazil vs Japan | 75. Germany vs Paraguay | 76. Netherlands vs Morocco | 77. Ivory Coast vs Norway | 78. France vs Sweden | 79. Mexico vs Ecuador | 80. England vs DR Congo | 81. Belgium vs Senegal | 82. USA vs Bosnia and Herzegovina | 83. Spain vs Austria | 84. Portugal vs Croatia | 85. Switzerland vs Algeria | 86. Australia vs Egypt | 87. Argentina vs Cape Verde | 88. Colombia vs Ghana |
+| ----------------------------- | -------------- | -------------------------- | ------------------- | ----------------------- | -------------------------- | ------------------------- | -------------------- | --------------------- | ----------------------- | ---------------------- | --------------------------------- | -------------------- | ----------------------- | -------------------------- | ---------------------- | --------------------------- | --------------------- |
+| Jonathan                      | 001            | Canada                     | Brazil              | Germany                 | Netherlands                | Norway                    | France               | Mexico                | England                 | Belgium                | USA                               | Spain                | Portugal                | Switzerland                | Egypt                  | Argentina                   | Colombia              |
+| Alfonso Fajardo               | 002            | Canada                     | Brazil              | Germany                 | Morocco                    | Norway                    | France               | Mexico                | England                 | Belgium                | USA                               | Spain                | Portugal                | Algeria                    | Egypt                  | Argentina                   | Colombia              |
+| Valentin                      | 003            | Canada                     | Brazil              | Germany                 | Morocco                    | Norway                    | France               | Mexico                | England                 | Senegal                | USA                               | Spain                | Portugal                | Switzerland                | Egypt                  | Argentina                   | Colombia              |
+| Jalil Rasgado Toledo          | 004            | Canada                     | Japan               | Germany                 | Netherlands                | Norway                    | France               | Mexico                | England                 | Senegal                | USA                               | Spain                | Portugal                | Algeria                    | Egypt                  | Argentina                   | Colombia              |
+| Rubén Sánchez               | 005            | Canada                     | Brazil              | Germany                 | Netherlands                | Norway                    | France               | Mexico                | England                 | Belgium                | USA                               | Spain                | Portugal                | Switzerland                | Egypt                  | Argentina                   | Colombia              |
+| Luis L                        | 006            | Canada                     | Brazil              | Germany                 | Netherlands                | Norway                    | France               | Mexico                | England                 | Belgium                | USA                               | Spain                | Portugal                | Switzerland                | Egypt                  | Argentina                   | Colombia              |
+| Rodrigo                       | 007            | Canada                     | Brazil              | Germany                 | Netherlands                | Norway                    | France               | Mexico                | England                 | Belgium                | USA                               | Spain                | Portugal                | Switzerland                | Egypt                  | Argentina                   | Colombia              |
+| Govind Mohan                  | 008            | Canada                     | Brazil              | Germany                 | Morocco                    | Norway                    | France               | Mexico                | England                 | Belgium                | USA                               | Spain                | Portugal                | Switzerland                | Egypt                  | Cape Verde                  | Colombia              |
+| Vladi                         | 009            | Canada                     | Brazil              | Germany                 | Netherlands                | Norway                    | France               | Mexico                | England                 | Belgium                | USA                               | Spain                | Portugal                | Switzerland                | Egypt                  | Argentina                   | Colombia              |
+| Daniel Jimenez Gomez          | 010            | Canada                     | Brazil              | Germany                 | Netherlands                | Norway                    | France               | Mexico                | England                 | Belgium                | Bosnia and Herzegovina            | Spain                | Portugal                | Switzerland                | Egypt                  | Argentina                   | Colombia              |
+| Ernesto                       | 011            | Canada                     | Brazil              | Germany                 | Netherlands                | Norway                    | France               | Mexico                | England                 | Belgium                | USA                               | Spain                | Portugal                | Switzerland                | Egypt                  | Argentina                   | Colombia              |
+| Roberto Ponce                 | 012            | Canada                     | Japan               | Germany                 | Netherlands                | Norway                    | France               | Mexico                | England                 | Belgium                | USA                               | Spain                | Portugal                | Switzerland                | Egypt                  | Argentina                   | Colombia              |
+| Hector Zepeda                 | 013            | Canada                     | Japan               | Germany                 | Netherlands                | Norway                    | France               | Mexico                | England                 | Senegal                | USA                               | Spain                | Portugal                | Switzerland                | Australia              | Cape Verde                  | Colombia              |
+| Ahmed Felfel                  | 014            | Canada                     | Japan               | Germany                 | Morocco                    | Norway                    | France               | Mexico                | England                 | Senegal                | USA                               | Spain                | Portugal                | Algeria                    | Egypt                  | Argentina                   | Colombia              |
+| Claudio                       | 015            | South Africa               | Brazil              | Germany                 | Morocco                    | Norway                    | France               | Mexico                | England                 | Senegal                | USA                               | Spain                | Portugal                | Switzerland                | Egypt                  | Argentina                   | Colombia              |
+| Ruben G                       | 016            | Canada                     | Brazil              | Germany                 | Netherlands                | Norway                    | France               | Mexico                | England                 | Belgium                | USA                               | Spain                | Portugal                | Switzerland                | Egypt                  | Argentina                   | Colombia              |
+| Habib Echanove                | 017            | Canada                     | Brazil              | Germany                 | Morocco                    | Norway                    | France               | Mexico                | England                 | Senegal                | USA                               | Spain                | Croatia                 | Switzerland                | Egypt                  | Argentina                   | Colombia              |
+| Mariel                        | 018            | Canada                     | Brazil              | Germany                 | Netherlands                | Norway                    | France               | Mexico                | England                 | Belgium                | USA                               | Spain                | Portugal                | Switzerland                | Egypt                  | Argentina                   | Colombia              |
+| Jhonatan Omar Romero Becerril | 019            | Canada                     | Brazil              | Germany                 | Netherlands                | Norway                    | France               | Mexico                | England                 | Belgium                | USA                               | Spain                | Portugal                | Switzerland                | Egypt                  | Argentina                   | Colombia              |
+| Julian SaSa                   | 020            | Canada                     | Japan               | Germany                 | Netherlands                | Norway                    | France               | Mexico                | England                 | Belgium                | USA                               | Spain                | Portugal                | Switzerland                | Egypt                  | Argentina                   | Colombia              |
 
  ## <u>**Score Predictions**</u>
 
  
-| Participant_ID | 73. South Africa vs Canada Predicted Score |
-| -------------- | ------------------------------------------ |
-| 001            | 1-2                                        |
-| 002            | 1-1                                        |
-| 003            | 0-1                                        |
-| 004            | 1-2                                        |
-| 005            | 1-2                                        |
-| 006            | 0-1                                        |
-| 007            | 0-1                                        |
-| 008            | 1-2                                        |
-| 009            | 0-2                                        |
-| 010            | 1-2                                        |
-| 011            | 1-2                                        |
-| 012            | 1-1                                        |
-| 013            | 1-3                                        |
-| 014            | 1-3                                        |
-| 015            | 1-1                                        |
-| 016            | 0-1                                        |
-| 017            | 0-1                                        |
-| 018            | 1-2                                        |
-| 019            | 0-2                                        |
-| 020            | 1-2                                        |
+| Participant_ID | 73. South Africa vs Canada Predicted Score | 74. Brazil vs Japan Predicted Score | 75. Germany vs Paraguay Predicted Score | 76. Netherlands vs Morocco Predicted Score | 77. Ivory Coast vs Norway Predicted Score | 78. France vs Sweden Predicted Score | 79. Mexico vs Ecuador Predicted Score | 80. England vs DR Congo Predicted Score | 81. Belgium vs Senegal Predicted Score | 82. USA vs Bosnia and Herzegovina Predicted Score | 83. Spain vs Austria Predicted Score | 84. Portugal vs Croatia Predicted Score | 85. Switzerland vs Algeria Predicted Score | 86. Australia vs Egypt Predicted Score | 87. Argentina vs Cape Verde Predicted Score | 88. Colombia vs Ghana Predicted Score |
+| -------------- | ------------------------------------------ | ----------------------------------- | --------------------------------------- | ------------------------------------------ | ----------------------------------------- | ------------------------------------ | ------------------------------------- | --------------------------------------- | -------------------------------------- | ------------------------------------------------- | ------------------------------------ | --------------------------------------- | ------------------------------------------ | -------------------------------------- | ------------------------------------------- | ------------------------------------- |
+| 001            | 1-2                                        | 2-1                                 | 2-0                                     | 2-1                                        | 1-3                                       | 3-1                                  | 1-0                                   | 2-0                                     | 2-1                                    | 3-1                                               | 2-0                                  | 2-0                                     |                                            |
 
 ![](media/predicted_scores_K16.png)
 
