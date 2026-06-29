@@ -105,3 +105,5 @@ ggsave("picks_K16.png",plot = plot1,units = "px",width = 1200,height = 1200,
 
   ggsave("predicted_scores_K16.png",plot = plot2,units = "px",width = 1200,height = 1000,
         path = "media",dpi = 200,bg="white")
+
+  
