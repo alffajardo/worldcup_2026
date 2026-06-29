@@ -160,11 +160,16 @@ K16_real_scores <- matches %>%
   filter(Round == "KO32") %>% 
   select(Score) %>%
   as_vector() %>% 
-  unlist()
+  unlist() %>%
+  unname()
+
 
 K16_predicted_scores <- read_csv("K16_predicted_scores.csv") %>% 
   arrange(Participant_ID) %>% 
-  select(-1)
+  select(-Participant_ID) %>% 
+  select(1:length(K16_real_scores))
+
+K16_predicted_scores
 
 K16_bonus_full <- map2_df(.x = K16_predicted_scores,K16_real_scores,~if_else(.x ==.y,true = 1,0)) %>% 
   bind_cols(select(scores_K16,Participant_ID),.) %>%
