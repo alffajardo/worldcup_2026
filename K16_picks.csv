@@ -1,21 +1,21 @@
-Name,Participant_ID,73. South Africa vs Canada
-Jonathan,001,Canada
-Alfonso Fajardo,002,Canada
-Valentin,003,Canada
-Jalil Rasgado Toledo,004,Canada
-Rubén Sánchez,005,Canada
-Luis L,006,Canada
-Rodrigo,007,Canada
-Govind Mohan,008,Canada
-Vladi,009,Canada
-Daniel Jimenez Gomez,010,Canada
-Ernesto,011,Canada
-Roberto Ponce,012,Canada
-Hector Zepeda,013,Canada
-Ahmed Felfel,014,Canada
-Claudio,015,South Africa
-Ruben G,016,Canada
-Habib Echanove,017,Canada
-Mariel,018,Canada
-Jhonatan Omar Romero Becerril,019,Canada
-Julian SaSa,020,Canada
+Name,Participant_ID,73. South Africa vs Canada,74. Brazil vs Japan,75. Germany vs Paraguay,76. Netherlands vs Morocco,77. Ivory Coast vs Norway,78. France vs Sweden,79. Mexico vs Ecuador,80. England vs DR Congo,81. Belgium vs Senegal,82. USA vs Bosnia and Herzegovina,83. Spain vs Austria,84. Portugal vs Croatia,85. Switzerland vs Algeria,86. Australia vs Egypt,87. Argentina vs Cape Verde,88. Colombia vs Ghana
+Jonathan,001,Canada,Brazil,Germany,Netherlands,Norway,France,Mexico,England,Belgium,USA,Spain,Portugal,Switzerland,Egypt,Argentina,Colombia
+Alfonso Fajardo,002,Canada,Brazil,Germany,Morocco,Norway,France,Mexico,England,Belgium,USA,Spain,Portugal,Algeria,Egypt,Argentina,Colombia
+Valentin,003,Canada,Brazil,Germany,Morocco,Norway,France,Mexico,England,Senegal,USA,Spain,Portugal,Switzerland,Egypt,Argentina,Colombia
+Jalil Rasgado Toledo,004,Canada,Japan,Germany,Netherlands,Norway,France,Mexico,England,Senegal,USA,Spain,Portugal,Algeria,Egypt,Argentina,Colombia
+Rubén Sánchez,005,Canada,Brazil,Germany,Netherlands,Norway,France,Mexico,England,Belgium,USA,Spain,Portugal,Switzerland,Egypt,Argentina,Colombia
+Luis L,006,Canada,Brazil,Germany,Netherlands,Norway,France,Mexico,England,Belgium,USA,Spain,Portugal,Switzerland,Egypt,Argentina,Colombia
+Rodrigo,007,Canada,Brazil,Germany,Netherlands,Norway,France,Mexico,England,Belgium,USA,Spain,Portugal,Switzerland,Egypt,Argentina,Colombia
+Govind Mohan,008,Canada,Brazil,Germany,Morocco,Norway,France,Mexico,England,Belgium,USA,Spain,Portugal,Switzerland,Egypt,Cape Verde,Colombia
+Vladi,009,Canada,Brazil,Germany,Netherlands,Norway,France,Mexico,England,Belgium,USA,Spain,Portugal,Switzerland,Egypt,Argentina,Colombia
+Daniel Jimenez Gomez,010,Canada,Brazil,Germany,Netherlands,Norway,France,Mexico,England,Belgium,Bosnia and Herzegovina,Spain,Portugal,Switzerland,Egypt,Argentina,Colombia
+Ernesto,011,Canada,Brazil,Germany,Netherlands,Norway,France,Mexico,England,Belgium,USA,Spain,Portugal,Switzerland,Egypt,Argentina,Colombia
+Roberto Ponce,012,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hector Zepeda,013,Canada,Japan,Germany,Netherlands,Norway,France,Mexico,England,Senegal,USA,Spain,Portugal,Switzerland,Australia,Cape Verde,Colombia
+Ahmed Felfel,014,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Claudio,015,South Africa,Brazil,Germany,Morocco,Norway,France,Mexico,England,Senegal,USA,Spain,Portugal,Switzerland,Egypt,Argentina,Colombia
+Ruben G,016,Canada,Brazil,Germany,Netherlands,Norway,France,Mexico,England,Belgium,USA,Spain,Portugal,Switzerland,Egypt,Argentina,Colombia
+Habib Echanove,017,Canada,Brazil,Germany,Morocco,Norway,France,Mexico,England,Senegal,USA,Spain,Croatia,Switzerland,Egypt,Argentina,Colombia
+Mariel,018,Canada,Brazil,Germany,Netherlands,Norway,France,Mexico,England,Belgium,USA,Spain,Portugal,Switzerland,Egypt,Argentina,Colombia
+Jhonatan Omar Romero Becerril,019,Canada,Brazil,Germany,Netherlands,Norway,France,Mexico,England,Belgium,USA,Spain,Portugal,Switzerland,Egypt,Argentina,Colombia
+Julian SaSa,020,Canada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

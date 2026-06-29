@@ -15,21 +15,31 @@ drive_auth(email = TRUE)
 picks_id <- drive_find(type = "spreadsheet",pattern = "Wc2026: KO Stage 32_a ",
 n_max = 1)$id
 
+picks2_id <-  drive_find(type = "spreadsheet",pattern = "KO Stage 32_b")
 
 
 picks <- read_sheet(picks_id)
+picks2 <- read_sheet(picks2_id)
 
 picks$Participant_ID <- as.character( as.character(picks$Participant_ID)) %>%
                         str_pad(pad = "0", side = "left", width = 3)
+
+picks2$Participant_ID <- as.character( as.character(picks2$Participant_ID)) %>%
+  str_pad(pad = "0", side = "left", width = 3)
+
+picks2 <- select(picks2,4:ncol(picks2))
+
+picks <- full_join(picks,picks2)
 
 bets <- picks[,c(3,4,5:ncol(picks))] %>%
 tibble() %>%
 arrange(Participant_ID) %>%
   select(!ends_with("Score"))
 
+
 scores_prediction <- picks %>%
                     arrange(Participant_ID) %>%
-                    select(Participant_ID,Score,ends_with("Score"),-Score)
+                    select(Participant_ID,ends_with("Score"),-Score)
   
   
 
@@ -66,7 +76,7 @@ bets2_summary$Match <- factor(bets2_summary$Match)
 plot1 <- ggplot(bets2_summary,aes(x=Match,y = n,fill = Bet))+
   geom_bar(stat = "identity",width = 0.8)+
   ylim(c(0,20))+
-  ggtitle("Knock Out stage: Round of 32 predictions (a)")+
+  ggtitle("Knock Out stage: Round of 32 predictions")+
   theme_minimal()+
   theme(axis.text.x = element_text(face = 2,angle = 60,
   vjust = T,hjust = T))+
