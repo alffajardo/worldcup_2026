@@ -40,6 +40,8 @@ arrange(Participant_ID) %>%
 scores_prediction <- picks %>%
                     arrange(Participant_ID) %>%
                     select(Participant_ID,ends_with("Score"),-Score)
+
+scores_prediction <- as.data.frame(lapply(scores_prediction,unlist))
   
   
 
@@ -49,7 +51,7 @@ quote = F,
 row.names =F )
 
 
-write.table(scores_prediction,"K16_predicted_scores.csv",sep=",",
+write.csv(scores_prediction,file = "K16_predicted_scores.csv",
             quote = F,
             row.names =F )
 
