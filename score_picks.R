@@ -21,7 +21,8 @@ matches <- drive_find(pattern = "matches_wc2026",type = "spreadsheet",n_max=1)$i
 
 matches <- read_sheet(matches) %>%
   filter(complete.cases(.)) %>% 
-  mutate(GD = abs(Goals_Local - Goals_Visitor))
+  mutate(match_score = paste(Goals_Local,Goals_Visitor,sep = "-"),
+    GD = abs(Goals_Local - Goals_Visitor))
 
 
 
@@ -54,7 +55,8 @@ matches <- drive_find(pattern = "matches_wc2026",type = "spreadsheet",n_max=1)$i
 
 matches <- read_sheet(matches) %>%
   filter(complete.cases(.)) %>% 
-  mutate(GD = abs(Goals_Local - Goals_Visitor))
+  mutate( Score = paste(Goals_Local,Goals_Visitor,sep = "-"),
+    GD = abs(Goals_Local - Goals_Visitor))
 
 
 
@@ -89,7 +91,8 @@ matches <- drive_find(pattern = "matches_wc2026",type = "spreadsheet",n_max=1)$i
 
 matches <- read_sheet(matches) %>%
   filter(complete.cases(.)) %>% 
-  mutate(GD = abs(Goals_Local - Goals_Visitor))
+  mutate( Score = paste(Goals_Local,Goals_Visitor,sep = "-"),
+    GD = abs(Goals_Local - Goals_Visitor))
 
 
 
@@ -115,14 +118,77 @@ GS3 <- rowSums(GS3_all)
 scores_GS3 <- data.frame(Participant_ID,GS3_all)
 
 
+
+# Scores K16 
+
+matches <- read_sheet(matches) %>%
+  filter(complete.cases(.)) %>% 
+  mutate( Score = paste(Goals_Local,Goals_Visitor,sep = "-"),
+          GD = abs(Goals_Local - Goals_Visitor))
+
+
+K16_picks <- read_csv("K16_picks.csv")
+
+
+
+
+K16_picks2 <- select(K16_picks,-c(1,2))
+
+
+K16 <- matches %>%
+  filter (Round == "KO32") %>%
+  select(Result) %>%
+  as.vector() %>%
+  unlist() 
+
+
+
+match_names <- names(K16_picks2)[1:length(K16)] 
+
+# temporalmente se dejará asi
+K16_all <- map_dfc(1:length(K16),~if_else( K16[.x] == K16_picks2[,.x],true = 1,0)) %>%
+  set_names(match_names)
+
+K16 <- rowSums(K16_all)
+
+scores_K16 <- data.frame(Participant_ID,K16_all)
+
+
+# score the goals
+
+K16_real_scores <- matches %>% 
+  filter(Round == "KO32") %>% 
+  select(Score) %>%
+  as_vector() %>% 
+  unlist()
+
+K16_predicted_scores <- read_csv("K16_predicted_scores.csv") %>% 
+  arrange(Participant_ID) %>% 
+  select(-1)
+
+K16_bonus_full <- map2_df(.x = K16_predicted_scores,K16_real_scores,~if_else(.x ==.y,true = 1,0)) %>% 
+  bind_cols(select(scores_K16,Participant_ID),.) %>%
+  tibble()
+
+
+
+K16_bonus <- K16_bonus_full %>%
+  select(-1) %>% 
+  rowSums()
+
+
+
 ### Escribir el output
-scores <- data.frame(Participant_ID,Name, GS1,GS2,GS3) %>%
+scores <- data.frame(Participant_ID,Name, GS1,GS2,GS3,K16,K16_bonus) %>%
   group_by (Participant_ID) 
 
 scores <- scores %>%
-  mutate(Total = sum(GS1,GS2,GS3,na.rm = T)) %>%
+  mutate(Total = sum(GS1,GS2,GS3,K16,K16_bonus,na.rm = T)) %>%
   ungroup %>%
-  arrange(desc(Total),Participant_ID)
+  arrange(desc(Total),Participant_ID) 
+
+
+
 
 
 
@@ -139,7 +205,8 @@ write.table(scores_GS3, "GS3_complete_scores.csv",sep = ",",
 
 
 
-## Lets give honors metion 
+write.table(scores_K16, "K16_complete_scores.csv",sep = ",",
+            quote = F ,row.names = F )
 
-scores_GS1
+
 

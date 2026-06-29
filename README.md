@@ -1,4 +1,4 @@
-Last Update: Sun 28 Jun 2026 13:02:56 EDT
+Last Update: Mon 29 Jun 2026 00:30:19 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -14,28 +14,28 @@ Last Update: Sun 28 Jun 2026 13:02:56 EDT
 FIFA World Cup 2026 results
 ---
  ## Total Scores
-| Participant_ID | Name                          | GS1 | GS2 | GS3 | Total |
-| -------------- | ----------------------------- | --- | --- | --- | ----- |
-| 003            | Valentin OURRY                | 15  | 17  | 16  | 48    |
-| 011            | Ernesto                       | 14  | 17  | 17  | 48    |
-| 001            | Jonathan Gallego              | 13  | 17  | 16  | 46    |
-| 012            | Roberto Ponce                 | 13  | 18  | 15  | 46    |
-| 007            | Rodrigo                       | 13  | 16  | 16  | 45    |
-| 002            | Alfonso Fajardo               | 13  | 15  | 16  | 44    |
-| 006            | Luis L                        | 12  | 17  | 15  | 44    |
-| 016            | Ruben G                       | 13  | 16  | 15  | 44    |
-| 013            | Héctor Zepeda                | 13  | 15  | 15  | 43    |
-| 015            | Claudio                       | 14  | 16  | 13  | 43    |
-| 018            | Mariel                        | 14  | 16  | 13  | 43    |
-| 005            | Ruben Sanchez Corona          | 13  | 14  | 15  | 42    |
-| 009            | Vladi                         | 12  | 14  | 16  | 42    |
-| 010            | Daniel Jimenez Gomez          | 11  | 15  | 16  | 42    |
-| 014            | Ahmed Felfel                  | 14  | 15  | 13  | 42    |
-| 017            | HABIB E                       | 11  | 16  | 12  | 39    |
-| 019            | Jhonatan Omar Romero Becerril | 11  | 14  | 14  | 39    |
-| 020            | Julian                        | 9   | 15  | 14  | 38    |
-| 004            | Jalil Rasgado Toledo          | 11  | 15  | 11  | 37    |
-| 008            | Gov                           | 7   | 15  | 12  | 34    |
+| Participant_ID | Name                          | GS1 | GS2 | GS3 | K16 | K16_bonus | Total |
+| -------------- | ----------------------------- | --- | --- | --- | --- | --------- | ----- |
+| 003            | Valentin OURRY                | 15  | 17  | 16  | 1   | 1         | 50    |
+| 011            | Ernesto                       | 14  | 17  | 17  | 1   | 0         | 49    |
+| 001            | Jonathan Gallego              | 13  | 17  | 16  | 1   | 0         | 47    |
+| 007            | Rodrigo                       | 13  | 16  | 16  | 1   | 1         | 47    |
+| 012            | Roberto Ponce                 | 13  | 18  | 15  | 1   | 0         | 47    |
+| 006            | Luis L                        | 12  | 17  | 15  | 1   | 1         | 46    |
+| 016            | Ruben G                       | 13  | 16  | 15  | 1   | 1         | 46    |
+| 002            | Alfonso Fajardo               | 13  | 15  | 16  | 1   | 0         | 45    |
+| 013            | Héctor Zepeda                | 13  | 15  | 15  | 1   | 0         | 44    |
+| 018            | Mariel                        | 14  | 16  | 13  | 1   | 0         | 44    |
+| 005            | Ruben Sanchez Corona          | 13  | 14  | 15  | 1   | 0         | 43    |
+| 009            | Vladi                         | 12  | 14  | 16  | 1   | 0         | 43    |
+| 010            | Daniel Jimenez Gomez          | 11  | 15  | 16  | 1   | 0         | 43    |
+| 014            | Ahmed Felfel                  | 14  | 15  | 13  | 1   | 0         | 43    |
+| 015            | Claudio                       | 14  | 16  | 13  | 0   | 0         | 43    |
+| 017            | HABIB E                       | 11  | 16  | 12  | 1   | 1         | 41    |
+| 019            | Jhonatan Omar Romero Becerril | 11  | 14  | 14  | 1   | 0         | 40    |
+| 020            | Julian                        | 9   | 15  | 14  | 1   | 0         | 39    |
+| 004            | Jalil Rasgado Toledo          | 11  | 15  | 11  | 1   | 0         | 38    |
+| 008            | Gov                           | 7   | 15  | 12  | 1   | 0         | 35    |
 
 Tie-Breaker 1 : Which team will win the world cup?
 
@@ -53,54 +53,54 @@ Tie-Breaker 3: How far will Canada advance in the tournament?
  ## <u>**Knock Out Stage Round of 32 Picks**</u>
  
  
-| Name                          | Participant_ID | South Africa vs Canada |
-| ----------------------------- | -------------- | ---------------------- |
-| Jonathan                      | 001            | Canada                 |
-| Alfonso Fajardo               | 002            | Canada                 |
-| Valentin                      | 003            | Canada                 |
-| Jalil Rasgado Toledo          | 004            | Canada                 |
-| Rubén Sánchez               | 005            | Canada                 |
-| Luis L                        | 006            | Canada                 |
-| Rodrigo                       | 007            | Canada                 |
-| Govind Mohan                  | 008            | Canada                 |
-| Vladi                         | 009            | Canada                 |
-| Daniel Jimenez Gomez          | 010            | Canada                 |
-| Ernesto                       | 011            | Canada                 |
-| Roberto Ponce                 | 012            | Canada                 |
-| Hector Zepeda                 | 013            | Canada                 |
-| Ahmed Felfel                  | 014            | Canada                 |
-| Claudio                       | 015            | South Africa           |
-| Ruben G                       | 016            | Canada                 |
-| Habib Echanove                | 017            | Canada                 |
-| Mariel                        | 018            | Canada                 |
-| Jhonatan Omar Romero Becerril | 019            | Canada                 |
-| Julian SaSa                   | 020            | Canada                 |
+| Name                          | Participant_ID | 73. South Africa vs Canada |
+| ----------------------------- | -------------- | -------------------------- |
+| Jonathan                      | 001            | Canada                     |
+| Alfonso Fajardo               | 002            | Canada                     |
+| Valentin                      | 003            | Canada                     |
+| Jalil Rasgado Toledo          | 004            | Canada                     |
+| Rubén Sánchez               | 005            | Canada                     |
+| Luis L                        | 006            | Canada                     |
+| Rodrigo                       | 007            | Canada                     |
+| Govind Mohan                  | 008            | Canada                     |
+| Vladi                         | 009            | Canada                     |
+| Daniel Jimenez Gomez          | 010            | Canada                     |
+| Ernesto                       | 011            | Canada                     |
+| Roberto Ponce                 | 012            | Canada                     |
+| Hector Zepeda                 | 013            | Canada                     |
+| Ahmed Felfel                  | 014            | Canada                     |
+| Claudio                       | 015            | South Africa               |
+| Ruben G                       | 016            | Canada                     |
+| Habib Echanove                | 017            | Canada                     |
+| Mariel                        | 018            | Canada                     |
+| Jhonatan Omar Romero Becerril | 019            | Canada                     |
+| Julian SaSa                   | 020            | Canada                     |
 
  ## <u>**Score Predictions**</u>
 
  
-| Participant_ID | South Africa vs Canada Predicted Score |
-| -------------- | -------------------------------------- |
-| 001            | 1-2                                    |
-| 002            | 1-1                                    |
-| 003            | 0-1                                    |
-| 004            | 1-2                                    |
-| 005            | 1-2                                    |
-| 006            | 0-1                                    |
-| 007            | 0-1                                    |
-| 008            | 1-2                                    |
-| 009            | 0-2                                    |
-| 010            | 1-2                                    |
-| 011            | 1-2                                    |
-| 012            | 1-1                                    |
-| 013            | 1-3                                    |
-| 014            | 1-3                                    |
-| 015            | 1-1                                    |
-| 016            | 0-1                                    |
-| 017            | 0-1                                    |
-| 018            | 1-2                                    |
-| 019            | 0-2                                    |
-| 020            | 1-2                                    |
+| Participant_ID | 73. South Africa vs Canada Predicted Score |
+| -------------- | ------------------------------------------ |
+| 001            | 1-2                                        |
+| 002            | 1-1                                        |
+| 003            | 0-1                                        |
+| 004            | 1-2                                        |
+| 005            | 1-2                                        |
+| 006            | 0-1                                        |
+| 007            | 0-1                                        |
+| 008            | 1-2                                        |
+| 009            | 0-2                                        |
+| 010            | 1-2                                        |
+| 011            | 1-2                                        |
+| 012            | 1-1                                        |
+| 013            | 1-3                                        |
+| 014            | 1-3                                        |
+| 015            | 1-1                                        |
+| 016            | 0-1                                        |
+| 017            | 0-1                                        |
+| 018            | 1-2                                        |
+| 019            | 0-2                                        |
+| 020            | 1-2                                        |
 
 ![](media/predicted_scores_K16.png)
 
