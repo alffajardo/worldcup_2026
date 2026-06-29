@@ -121,11 +121,6 @@ scores_GS3 <- data.frame(Participant_ID,GS3_all)
 
 # Scores K16 
 
-matches <- read_sheet(matches) %>%
-  filter(complete.cases(.)) %>% 
-  mutate( Score = paste(Goals_Local,Goals_Visitor,sep = "-"),
-          GD = abs(Goals_Local - Goals_Visitor))
-
 
 K16_picks <- read_csv("K16_picks.csv")
 

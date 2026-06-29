@@ -1,21 +1,21 @@
 Participant_ID,Name,GS1,GS2,GS3,K16,K16_bonus,Total
-003,Valentin OURRY,15,17,16,1,1,50
-011,Ernesto,14,17,17,1,0,49
-001,Jonathan Gallego,13,17,16,1,0,47
-007,Rodrigo,13,16,16,1,1,47
+003,Valentin OURRY,15,17,16,2,2,52
+011,Ernesto,14,17,17,2,1,51
+001,Jonathan Gallego,13,17,16,2,1,49
+007,Rodrigo,13,16,16,2,2,49
+006,Luis L,12,17,15,2,2,48
+002,Alfonso Fajardo,13,15,16,2,1,47
 012,Roberto Ponce,13,18,15,1,0,47
-006,Luis L,12,17,15,1,1,46
-016,Ruben G,13,16,15,1,1,46
-002,Alfonso Fajardo,13,15,16,1,0,45
+016,Ruben G,13,16,15,2,1,47
+010,Daniel Jimenez Gomez,11,15,16,2,1,45
+015,Claudio,14,16,13,1,1,45
+018,Mariel,14,16,13,2,0,45
+005,Ruben Sanchez Corona,13,14,15,2,0,44
+009,Vladi,12,14,16,2,0,44
 013,Héctor Zepeda,13,15,15,1,0,44
-018,Mariel,14,16,13,1,0,44
-005,Ruben Sanchez Corona,13,14,15,1,0,43
-009,Vladi,12,14,16,1,0,43
-010,Daniel Jimenez Gomez,11,15,16,1,0,43
 014,Ahmed Felfel,14,15,13,1,0,43
-015,Claudio,14,16,13,0,0,43
-017,HABIB E,11,16,12,1,1,41
-019,Jhonatan Omar Romero Becerril,11,14,14,1,0,40
+017,HABIB E,11,16,12,2,2,43
+019,Jhonatan Omar Romero Becerril,11,14,14,2,1,42
 020,Julian,9,15,14,1,0,39
 004,Jalil Rasgado Toledo,11,15,11,1,0,38
-008,Gov,7,15,12,1,0,35
+008,Gov,7,15,12,2,1,37
