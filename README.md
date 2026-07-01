@@ -1,4 +1,4 @@
-Last Update: Wed  1 Jul 2026 01:58:50 EDT
+Last Update: Wed  1 Jul 2026 14:14:08 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -27,10 +27,10 @@ FIFA World Cup 2026 results
 | 015            | Claudio                       | 14  | 16  | 13  | 5   | 1         | 49    |
 | 018            | Mariel                        | 14  | 16  | 13  | 5   | 1         | 49    |
 | 005            | Ruben Sanchez Corona          | 13  | 14  | 15  | 5   | 1         | 48    |
+| 009            | Vladi                         | 12  | 14  | 16  | 5   | 1         | 48    |
 | 010            | Daniel Jimenez Gomez          | 11  | 15  | 16  | 5   | 1         | 48    |
 | 013            | Héctor Zepeda                | 13  | 15  | 15  | 4   | 1         | 48    |
 | 017            | HABIB E                       | 11  | 16  | 12  | 6   | 3         | 48    |
-| 009            | Vladi                         | 12  | 14  | 16  | 5   | 0         | 47    |
 | 014            | Ahmed Felfel                  | 14  | 15  | 13  | 5   | 0         | 47    |
 | 019            | Jhonatan Omar Romero Becerril | 11  | 14  | 14  | 5   | 2         | 46    |
 | 020            | Julian                        | 9   | 15  | 14  | 4   | 1         | 43    |
