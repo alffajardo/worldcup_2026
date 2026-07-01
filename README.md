@@ -1,4 +1,4 @@
-Last Update: Tue 30 Jun 2026 14:54:30 EDT
+Last Update: Wed  1 Jul 2026 01:58:50 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -16,26 +16,26 @@ FIFA World Cup 2026 results
  ## Total Scores
 | Participant_ID | Name                          | GS1 | GS2 | GS3 | K16 | K16_bonus | Total |
 | -------------- | ----------------------------- | --- | --- | --- | --- | --------- | ----- |
-| 003            | Valentin OURRY                | 15  | 17  | 16  | 4   | 4         | 56    |
-| 011            | Ernesto                       | 14  | 17  | 17  | 3   | 2         | 53    |
-| 007            | Rodrigo                       | 13  | 16  | 16  | 3   | 3         | 51    |
-| 001            | Jonathan Gallego              | 13  | 17  | 16  | 3   | 1         | 50    |
-| 002            | Alfonso Fajardo               | 13  | 15  | 16  | 4   | 2         | 50    |
-| 006            | Luis L                        | 12  | 17  | 15  | 3   | 3         | 50    |
-| 012            | Roberto Ponce                 | 13  | 18  | 15  | 2   | 2         | 50    |
-| 016            | Ruben G                       | 13  | 16  | 15  | 3   | 2         | 49    |
-| 015            | Claudio                       | 14  | 16  | 13  | 3   | 1         | 47    |
-| 018            | Mariel                        | 14  | 16  | 13  | 3   | 1         | 47    |
-| 005            | Ruben Sanchez Corona          | 13  | 14  | 15  | 3   | 1         | 46    |
-| 010            | Daniel Jimenez Gomez          | 11  | 15  | 16  | 3   | 1         | 46    |
-| 017            | HABIB E                       | 11  | 16  | 12  | 4   | 3         | 46    |
-| 009            | Vladi                         | 12  | 14  | 16  | 3   | 0         | 45    |
-| 013            | Héctor Zepeda                | 13  | 15  | 15  | 2   | 0         | 45    |
-| 014            | Ahmed Felfel                  | 14  | 15  | 13  | 3   | 0         | 45    |
-| 019            | Jhonatan Omar Romero Becerril | 11  | 14  | 14  | 3   | 2         | 44    |
-| 020            | Julian                        | 9   | 15  | 14  | 2   | 1         | 41    |
-| 004            | Jalil Rasgado Toledo          | 11  | 15  | 11  | 2   | 0         | 39    |
-| 008            | Gov                           | 7   | 15  | 12  | 4   | 1         | 39    |
+| 003            | Valentin OURRY                | 15  | 17  | 16  | 6   | 6         | 60    |
+| 011            | Ernesto                       | 14  | 17  | 17  | 5   | 2         | 55    |
+| 006            | Luis L                        | 12  | 17  | 15  | 5   | 4         | 53    |
+| 007            | Rodrigo                       | 13  | 16  | 16  | 5   | 3         | 53    |
+| 001            | Jonathan Gallego              | 13  | 17  | 16  | 5   | 1         | 52    |
+| 002            | Alfonso Fajardo               | 13  | 15  | 16  | 6   | 2         | 52    |
+| 012            | Roberto Ponce                 | 13  | 18  | 15  | 4   | 2         | 52    |
+| 016            | Ruben G                       | 13  | 16  | 15  | 5   | 2         | 51    |
+| 015            | Claudio                       | 14  | 16  | 13  | 5   | 1         | 49    |
+| 018            | Mariel                        | 14  | 16  | 13  | 5   | 1         | 49    |
+| 005            | Ruben Sanchez Corona          | 13  | 14  | 15  | 5   | 1         | 48    |
+| 010            | Daniel Jimenez Gomez          | 11  | 15  | 16  | 5   | 1         | 48    |
+| 013            | Héctor Zepeda                | 13  | 15  | 15  | 4   | 1         | 48    |
+| 017            | HABIB E                       | 11  | 16  | 12  | 6   | 3         | 48    |
+| 009            | Vladi                         | 12  | 14  | 16  | 5   | 0         | 47    |
+| 014            | Ahmed Felfel                  | 14  | 15  | 13  | 5   | 0         | 47    |
+| 019            | Jhonatan Omar Romero Becerril | 11  | 14  | 14  | 5   | 2         | 46    |
+| 020            | Julian                        | 9   | 15  | 14  | 4   | 1         | 43    |
+| 008            | Gov                           | 7   | 15  | 12  | 6   | 2         | 42    |
+| 004            | Jalil Rasgado Toledo          | 11  | 15  | 11  | 4   | 0         | 41    |
 
 Tie-Breaker 1 : Which team will win the world cup?
 
