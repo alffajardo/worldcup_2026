@@ -1,4 +1,4 @@
-Last Update: Wed  1 Jul 2026 20:07:05 EDT
+Last Update: Wed  1 Jul 2026 22:06:09 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -16,26 +16,26 @@ FIFA World Cup 2026 results
  ## Total Scores
 | Participant_ID | Name                          | GS1 | GS2 | GS3 | K16 | K16_bonus | Total |
 | -------------- | ----------------------------- | --- | --- | --- | --- | --------- | ----- |
-| 003            | Valentin OURRY                | 15  | 17  | 16  | 7   | 6         | 61    |
-| 011            | Ernesto                       | 14  | 17  | 17  | 7   | 2         | 57    |
-| 006            | Luis L                        | 12  | 17  | 15  | 7   | 4         | 55    |
-| 007            | Rodrigo                       | 13  | 16  | 16  | 7   | 3         | 55    |
-| 001            | Jonathan Gallego              | 13  | 17  | 16  | 7   | 1         | 54    |
-| 002            | Alfonso Fajardo               | 13  | 15  | 16  | 8   | 2         | 54    |
-| 012            | Roberto Ponce                 | 13  | 18  | 15  | 6   | 2         | 54    |
-| 016            | Ruben G                       | 13  | 16  | 15  | 7   | 2         | 53    |
-| 018            | Mariel                        | 14  | 16  | 13  | 7   | 2         | 52    |
-| 005            | Ruben Sanchez Corona          | 13  | 14  | 15  | 7   | 1         | 50    |
-| 009            | Vladi                         | 12  | 14  | 16  | 7   | 1         | 50    |
+| 003            | Valentin OURRY                | 15  | 17  | 16  | 8   | 6         | 62    |
+| 011            | Ernesto                       | 14  | 17  | 17  | 8   | 2         | 58    |
+| 006            | Luis L                        | 12  | 17  | 15  | 8   | 5         | 57    |
+| 007            | Rodrigo                       | 13  | 16  | 16  | 8   | 4         | 57    |
+| 012            | Roberto Ponce                 | 13  | 18  | 15  | 7   | 3         | 56    |
+| 001            | Jonathan Gallego              | 13  | 17  | 16  | 8   | 1         | 55    |
+| 002            | Alfonso Fajardo               | 13  | 15  | 16  | 9   | 2         | 55    |
+| 016            | Ruben G                       | 13  | 16  | 15  | 8   | 3         | 55    |
+| 018            | Mariel                        | 14  | 16  | 13  | 8   | 2         | 53    |
+| 013            | Héctor Zepeda                | 13  | 15  | 15  | 6   | 3         | 52    |
+| 005            | Ruben Sanchez Corona          | 13  | 14  | 15  | 8   | 1         | 51    |
+| 009            | Vladi                         | 12  | 14  | 16  | 8   | 1         | 51    |
+| 015            | Claudio                       | 14  | 16  | 13  | 7   | 1         | 51    |
+| 017            | HABIB E                       | 11  | 16  | 12  | 8   | 4         | 51    |
 | 010            | Daniel Jimenez Gomez          | 11  | 15  | 16  | 7   | 1         | 50    |
-| 013            | Héctor Zepeda                | 13  | 15  | 15  | 5   | 2         | 50    |
-| 015            | Claudio                       | 14  | 16  | 13  | 6   | 1         | 50    |
-| 017            | HABIB E                       | 11  | 16  | 12  | 7   | 3         | 49    |
-| 014            | Ahmed Felfel                  | 14  | 15  | 13  | 6   | 0         | 48    |
-| 019            | Jhonatan Omar Romero Becerril | 11  | 14  | 14  | 7   | 2         | 48    |
-| 020            | Julian                        | 9   | 15  | 14  | 6   | 1         | 45    |
-| 008            | Gov                           | 7   | 15  | 12  | 8   | 2         | 44    |
-| 004            | Jalil Rasgado Toledo          | 11  | 15  | 11  | 5   | 0         | 42    |
+| 014            | Ahmed Felfel                  | 14  | 15  | 13  | 7   | 1         | 50    |
+| 019            | Jhonatan Omar Romero Becerril | 11  | 14  | 14  | 8   | 2         | 49    |
+| 020            | Julian                        | 9   | 15  | 14  | 7   | 2         | 47    |
+| 008            | Gov                           | 7   | 15  | 12  | 9   | 2         | 45    |
+| 004            | Jalil Rasgado Toledo          | 11  | 15  | 11  | 6   | 1         | 44    |
 
 Tie-Breaker 1 : Which team will win the world cup?
 
