@@ -25,6 +25,63 @@ FIFA World Cup 2026 results
 ---" >> 00.tmp_header.md
 
 #########------------------------
+##          KO 18
+####################################
+Rscript generate_picks_kO8.R
+
+
+echo "
+ ## <u>**Knock Out Stage Round of 32 Picks**</u>
+ 
+ " > 05.tmp_ko08.md
+gen_markdowntable.sh --csv < K08_picks.csv  >> 05.tmp_ko08.md
+
+echo "
+ ## <u>**Score Predictions**</u>
+
+ " >> 05.tmp_ko08.md
+
+
+
+gen_markdowntable.sh --csv < K08_predicted_scores.csv  >> 04.tmp_ko08.md
+
+echo "
+![](media/picks_K08.png)
+
+- - - " >> 04.tmp_ko08.md
+
+echo "
+![](media/predicted_scores_K08.png)
+
+- - - " >> 04.tmp_ko08.md
+Rscript generate_picks_k08.R
+
+echo "
+ ## <u>**Knock Out Stage Round of 32 Picks**</u>
+ 
+ " > 04.tmp_ko08.md
+gen_markdowntable.sh --csv < K08_picks.csv  >> 04.tmp_ko08.md
+
+echo "
+ ## <u>**Score Predictions**</u>
+
+ " >> 04.tmp_ko08.md
+
+
+
+gen_markdowntable.sh --csv < K08_predicted_scores.csv  >> 04.tmp_ko08.md
+
+echo "
+![](media/picks_K08.png)
+
+- - - " >> 04.tmp_ko08.md
+
+echo "
+![](media/predicted_scores_K08.png)
+
+- - - " >> 04.tmp_ko08.md
+
+#########------------------------
 ##          KO 16
 ####################################
 Rscript generate_picks_k16.R
