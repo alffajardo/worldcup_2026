@@ -25,10 +25,9 @@ FIFA World Cup 2026 results
 ---" >> 00.tmp_header.md
 
 #########------------------------
-##          KO 18
+##          KO 08
 ####################################
 Rscript generate_picks_kO8.R
-
 
 echo "
  ## <u>**Knock Out Stage Round of 32 Picks**</u>
@@ -43,43 +42,18 @@ echo "
 
 
 
-gen_markdowntable.sh --csv < K08_predicted_scores.csv  >> 04.tmp_ko08.md
+gen_markdowntable.sh --csv < K08_predicted_scores.csv  >> 05.tmp_ko08.md
 
 echo "
 ![](media/picks_K08.png)
 
-- - - " >> 04.tmp_ko08.md
+- - - " >> 05.tmp_ko08.md
 
 echo "
 ![](media/predicted_scores_K08.png)
 
-- - - " >> 04.tmp_ko08.md
-Rscript generate_picks_k08.R
+- - - " >> 05.tmp_ko08.md
 
-echo "
- ## <u>**Knock Out Stage Round of 32 Picks**</u>
- 
- " > 04.tmp_ko08.md
-gen_markdowntable.sh --csv < K08_picks.csv  >> 04.tmp_ko08.md
-
-echo "
- ## <u>**Score Predictions**</u>
-
- " >> 04.tmp_ko08.md
-
-
-
-gen_markdowntable.sh --csv < K08_predicted_scores.csv  >> 04.tmp_ko08.md
-
-echo "
-![](media/picks_K08.png)
-
-- - - " >> 04.tmp_ko08.md
-
-echo "
-![](media/predicted_scores_K08.png)
-
-- - - " >> 04.tmp_ko08.md
 
 #########------------------------
 ##          KO 16
@@ -246,7 +220,7 @@ Tie-Breaker 3: How far will Canada advance in the tournament?
 <img src="media/tiebreak_q3.png" alt="tiebreaker_q3" width="400"/> 
 " >> 00.tmp_header.md
  
-cat 00.tmp_header.md  04.tmp_ko16.md 03.tmp_gs3.md 02.tmp_gs2.md 01.tmp_gs1.md > README.md
+cat 00.tmp_header.md 05.tmp_ko08.md 04.tmp_ko16.md 03.tmp_gs3.md 02.tmp_gs2.md 01.tmp_gs1.md > README.md
 
 
 
