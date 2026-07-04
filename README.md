@@ -1,4 +1,4 @@
-Last Update: Fri  3 Jul 2026 16:57:08 EDT
+Last Update: Sat  4 Jul 2026 12:26:24 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -16,26 +16,26 @@ FIFA World Cup 2026 results
  ## Total Scores
 | Participant_ID | Name                          | GS1 | GS2 | GS3 | K16 | K16_bonus | Total |
 | -------------- | ----------------------------- | --- | --- | --- | --- | --------- | ----- |
-| 003            | Valentin OURRY                | 15  | 17  | 16  | 12  | 8         | 68    |
-| 006            | Luis L                        | 12  | 17  | 15  | 12  | 6         | 62    |
-| 007            | Rodrigo                       | 13  | 16  | 16  | 12  | 5         | 62    |
-| 011            | Ernesto                       | 14  | 17  | 17  | 12  | 2         | 62    |
-| 012            | Roberto Ponce                 | 13  | 18  | 15  | 11  | 4         | 61    |
-| 001            | Jonathan Gallego              | 13  | 17  | 16  | 12  | 2         | 60    |
-| 016            | Ruben G                       | 13  | 16  | 15  | 12  | 4         | 60    |
-| 002            | Alfonso Fajardo               | 13  | 15  | 16  | 12  | 2         | 58    |
-| 009            | Vladi                         | 12  | 14  | 16  | 12  | 3         | 57    |
-| 018            | Mariel                        | 14  | 16  | 13  | 12  | 2         | 57    |
-| 013            | Héctor Zepeda                | 13  | 15  | 15  | 9   | 4         | 56    |
-| 015            | Claudio                       | 14  | 16  | 13  | 11  | 2         | 56    |
-| 005            | Ruben Sanchez Corona          | 13  | 14  | 15  | 12  | 1         | 55    |
-| 017            | HABIB E                       | 11  | 16  | 12  | 11  | 5         | 55    |
-| 010            | Daniel Jimenez Gomez          | 11  | 15  | 16  | 11  | 1         | 54    |
-| 019            | Jhonatan Omar Romero Becerril | 11  | 14  | 14  | 12  | 3         | 54    |
-| 014            | Ahmed Felfel                  | 14  | 15  | 13  | 10  | 1         | 53    |
-| 020            | Julian                        | 9   | 15  | 14  | 11  | 3         | 52    |
-| 008            | Gov                           | 7   | 15  | 12  | 13  | 3         | 50    |
-| 004            | Jalil Rasgado Toledo          | 11  | 15  | 11  | 9   | 2         | 48    |
+| 003            | Valentin OURRY                | 15  | 17  | 16  | 14  | 8         | 70    |
+| 006            | Luis L                        | 12  | 17  | 15  | 14  | 6         | 64    |
+| 007            | Rodrigo                       | 13  | 16  | 16  | 14  | 5         | 64    |
+| 011            | Ernesto                       | 14  | 17  | 17  | 14  | 2         | 64    |
+| 001            | Jonathan Gallego              | 13  | 17  | 16  | 14  | 3         | 63    |
+| 012            | Roberto Ponce                 | 13  | 18  | 15  | 13  | 4         | 63    |
+| 016            | Ruben G                       | 13  | 16  | 15  | 14  | 5         | 63    |
+| 002            | Alfonso Fajardo               | 13  | 15  | 16  | 14  | 2         | 60    |
+| 009            | Vladi                         | 12  | 14  | 16  | 14  | 3         | 59    |
+| 015            | Claudio                       | 14  | 16  | 13  | 13  | 3         | 59    |
+| 018            | Mariel                        | 14  | 16  | 13  | 14  | 2         | 59    |
+| 005            | Ruben Sanchez Corona          | 13  | 14  | 15  | 14  | 1         | 57    |
+| 013            | Héctor Zepeda                | 13  | 15  | 15  | 10  | 4         | 57    |
+| 017            | HABIB E                       | 11  | 16  | 12  | 13  | 5         | 57    |
+| 010            | Daniel Jimenez Gomez          | 11  | 15  | 16  | 13  | 1         | 56    |
+| 014            | Ahmed Felfel                  | 14  | 15  | 13  | 12  | 2         | 56    |
+| 019            | Jhonatan Omar Romero Becerril | 11  | 14  | 14  | 14  | 3         | 56    |
+| 020            | Julian                        | 9   | 15  | 14  | 13  | 3         | 54    |
+| 008            | Gov                           | 7   | 15  | 12  | 14  | 3         | 51    |
+| 004            | Jalil Rasgado Toledo          | 11  | 15  | 11  | 11  | 2         | 50    |
 
 Tie-Breaker 1 : Which team will win the world cup?
 
@@ -153,6 +153,50 @@ Noticeable players in this round:
 | Gov                  | 008            |
 | Jalil Rasgado Toledo | 004            |
 | Mariel g             | 018            |
+
+ ## <u>**Group Stage 2 (GS2) Picks**</u>
+ 
+ 
+| Name                          | Participant_ID | 25.  Czechia vs South Africa | 26. Switzerland vs  Bosnia and Herzegovina | 27. Canada vs Qatar | 28. Mexico vs South Korea | 29. USA vs Australia | 30. Scotland vs Morocco | 31.  Brazil vs Haiti | 32. Türkiye vs Paraguay | 33. Netherlands vs Sweden | 34. Germany vs Ivory Coast | 35. Ecuador vs Curaçao | 36. Tunisia vs Japan | 37. Spain vs Saudi Arabia | 38.  Belgium vs Iran | 39. Uruguay vs Cape Verde | 40. New Zealand vs Egypt | 41 Argentina vs Austria | 42. France vs Iraq | 43. Norway vs Senegal | 44. Jordan vs Algeria | 45. Portugal vs Usbekistan | 46. England vs Ghana | 47. Panama vs Croatia | 48. Colombia vs DR Congo |
+| ----------------------------- | -------------- | ---------------------------- | ------------------------------------------ | ------------------- | ------------------------- | -------------------- | ----------------------- | -------------------- | ----------------------- | ------------------------- | -------------------------- | ---------------------- | -------------------- | ------------------------- | -------------------- | ------------------------- | ------------------------ | ----------------------- | ------------------ | --------------------- | --------------------- | -------------------------- | -------------------- | --------------------- | ------------------------ |
+| Jonathan Gallego              | 001            | Czechia                      | Switzerland                                | Canada              | Mexico                    | USA                  | Morocco                 | Brazil               | Türkiye                | Netherlands               | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Uruguay                   | Egypt                    | Argentina               | France             | Draw                  | Algeria               | Portugal                   | England              | Croatia               | Colombia                 |
+| Alfonso Fajardo               | 002            | Czechia                      | Draw                                       | Canada              | Mexico                    | USA                  | Morocco                 | Brazil               | Türkiye                | Draw                      | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Uruguay                   | New Zealand              | Argentina               | France             | Norway                | Algeria               | Portugal                   | England              | Croatia               | Colombia                 |
+| Valentin OURRY                | 003            | Draw                         | Switzerland                                | Canada              | Mexico                    | USA                  | Morocco                 | Brazil               | Türkiye                | Draw                      | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Uruguay                   | Egypt                    | Argentina               | France             | Draw                  | Algeria               | Portugal                   | England              | Croatia               | Colombia                 |
+| Jalil Rasgado Toledo          | 004            | Czechia                      | Draw                                       | Canada              | Mexico                    | USA                  | Morocco                 | Brazil               | Draw                    | Netherlands               | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Uruguay                   | Draw                     | Argentina               | France             | Norway                | Draw                  | Portugal                   | England              | Croatia               | Colombia                 |
+| Ruben Sanchez Corona          | 005            | Czechia                      | Draw                                       | Canada              | Mexico                    | USA                  | Morocco                 | Brazil               | Türkiye                | Draw                      | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Uruguay                   | Draw                     | Argentina               | France             | Norway                | Draw                  | Portugal                   | England              | Croatia               | Colombia                 |
+| Luis L                        | 006            | Czechia                      | Switzerland                                | Canada              | South Korea               | USA                  | Morocco                 | Brazil               | Paraguay                | Netherlands               | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Uruguay                   | Egypt                    | Argentina               | France             | Norway                | Algeria               | Portugal                   | England              | Croatia               | Draw                     |
+| Rodrigo                       | 007            | Czechia                      | Switzerland                                | Canada              | Mexico                    | USA                  | Morocco                 | Brazil               | Draw                    | Draw                      | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Uruguay                   | Egypt                    | Argentina               | France             | Draw                  | Algeria               | Portugal                   | England              | Croatia               | Colombia                 |
+| Gov                           | 008            | Czechia                      | Draw                                       | Canada              | Draw                      | Australia            | Morocco                 | Brazil               | Türkiye                | Netherlands               | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Draw                      | Egypt                    | Argentina               | France             | Norway                | Algeria               | Portugal                   | England              | Croatia               | DR Congo                 |
+| Vladi                         | 009            | Draw                         | Bosnia and Herzegovina                     | Canada              | Draw                      | Draw                 | Morocco                 | Brazil               | Draw                    | Netherlands               | Germany                    | Ecuador                | Draw                 | Spain                     | Belgium              | Uruguay                   | Egypt                    | Argentina               | France             | Draw                  | Algeria               | Portugal                   | England              | Croatia               | Colombia                 |
+| Daniel Jimenez Gomez          | 010            | Czechia                      | Switzerland                                | Canada              | Draw                      | Draw                 | Morocco                 | Brazil               | Türkiye                | Netherlands               | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Uruguay                   | Egypt                    | Argentina               | France             | Norway                | Jordan                | Portugal                   | England              | Croatia               | Colombia                 |
+| Ernesto                       | 011            | Czechia                      | Switzerland                                | Canada              | Mexico                    | USA                  | Morocco                 | Brazil               | Türkiye                | Netherlands               | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Uruguay                   | Egypt                    | Argentina               | France             | Draw                  | Algeria               | Portugal                   | England              | Croatia               | Colombia                 |
+| Roberto Ponce                 | 012            | Czechia                      | Switzerland                                | Canada              | Mexico                    | USA                  | Morocco                 | Brazil               | Draw                    | Netherlands               | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Uruguay                   | Egypt                    | Argentina               | France             | Norway                | Algeria               | Portugal                   | England              | Croatia               | Colombia                 |
+| Héctor Zepeda                | 013            | Czechia                      | Draw                                       | Canada              | Draw                      | USA                  | Morocco                 | Brazil               | Draw                    | Netherlands               | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Uruguay                   | Egypt                    | Argentina               | France             | Draw                  | Algeria               | Portugal                   | England              | Croatia               | Colombia                 |
+| Ahmed Felfel                  | 014            | Czechia                      | Switzerland                                | Canada              | Draw                      | USA                  | Morocco                 | Brazil               | Türkiye                | Netherlands               | Germany                    | Ecuador                | Draw                 | Spain                     | Belgium              | Uruguay                   | Egypt                    | Argentina               | France             | Draw                  | Algeria               | Portugal                   | England              | Croatia               | Colombia                 |
+| Claudio                       | 015            | Czechia                      | Switzerland                                | Canada              | Draw                      | USA                  | Morocco                 | Brazil               | Türkiye                | Netherlands               | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Uruguay                   | Egypt                    | Argentina               | France             | Draw                  | Algeria               | Portugal                   | England              | Croatia               | Colombia                 |
+| Ruben G                       | 016            | Czechia                      | Switzerland                                | Canada              | Draw                      | USA                  | Morocco                 | Brazil               | Draw                    | Netherlands               | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Uruguay                   | Egypt                    | Argentina               | France             | Draw                  | Algeria               | Portugal                   | England              | Croatia               | Colombia                 |
+| HABIB E                       | 017            | Czechia                      | Switzerland                                | Canada              | Mexico                    | Draw                 | Morocco                 | Brazil               | Draw                    | Draw                      | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Uruguay                   | Egypt                    | Argentina               | France             | Norway                | Algeria               | Portugal                   | England              | Croatia               | Colombia                 |
+| Mariel                        | 018            | Czechia                      | Switzerland                                | Canada              | Draw                      | USA                  | Morocco                 | Brazil               | Türkiye                | Draw                      | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Uruguay                   | Egypt                    | Argentina               | France             | Norway                | Algeria               | Portugal                   | England              | Croatia               | Colombia                 |
+| Jhonatan Omar Romero Becerril | 019            | Czechia                      | Switzerland                                | Canada              | Mexico                    | USA                  | Morocco                 | Brazil               | Draw                    | Draw                      | Germany                    | Ecuador                | Draw                 | Spain                     | Belgium              | Uruguay                   | Egypt                    | Argentina               | France             | Draw                  | Draw                  | Portugal                   | England              | Croatia               | Colombia                 |
+| Julian                        | 020            | Czechia                      | Switzerland                                | Canada              | Mexico                    | USA                  | Draw                    | Brazil               | Draw                    | Netherlands               | Germany                    | Ecuador                | Japan                | Spain                     | Belgium              | Uruguay                   | Draw                     | Argentina               | France             | Norway                | Draw                  | Portugal                   | England              | Croatia               | Colombia                 |
+### Plots
+<img src=media/picks_GS2.png alt=picks width=400/> 
+### Picks Similarities
+
+<img src=media/similarities_GS2.png alt=similarities width=600/> 
+
+---
+Noticeable players in this round:
+
+
+
+| Name                 | Participant_ID |
+| -------------------- | -------------- |
+| Gov                  | 008            |
+| Vladi                | 009            |
+| Julian               | 020            |
+| Ruben Sanchez Corona | 005            |
+| Luis L               | 006            |
 
  ## <u>**Group Stage 2 (GS2) Picks**</u>
  
