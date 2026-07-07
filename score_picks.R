@@ -201,7 +201,7 @@ match_names <- names(KO8_picks2)[1:length(KO8)]
 KO8_all <- map_dfc(1:length(KO8),~if_else( KO8[.x] == KO8_picks2[,.x],true = 1,0)) %>%
   set_names(match_names)
 
-KO8 <- rowSums(KO8_all)
+KO8 <- rowSums(KO8_all,na.rm = T)
 
 scores_KO8 <- data.frame(Participant_ID,KO8_all)
 
@@ -233,7 +233,7 @@ KO8_bonus_full <- map2_df(.x = KO8_predicted_scores,KO8_real_scores,~if_else(.x 
 
 KO8_bonus <- KO8_bonus_full %>%
   select(-1) %>% 
-  rowSums()
+  rowSums(na.rm = T)
 
 
 
