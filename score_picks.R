@@ -188,7 +188,7 @@ KO8_picks2 <- select(KO8_picks,-c(1,2))
 
 
 KO8 <- matches %>%
-  filter (Round == "K16") %>%
+  filter (Round == "KO16") %>%
   select(Result) %>%
   as.vector() %>%
   unlist() 
@@ -267,6 +267,4 @@ write.table(scores_GS3, "GS3_complete_scores.csv",sep = ",",
 
 write.table(scores_K16, "K16_complete_scores.csv",sep = ",",
             quote = F ,row.names = F )
-
-
 
