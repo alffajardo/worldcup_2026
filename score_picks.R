@@ -176,10 +176,70 @@ K16_bonus <- K16_bonus_full %>%
   select(-1) %>% 
   rowSums()
 
+# Scores KO8 
+
+
+KO8_picks <- read_csv("KO8_picks.csv")
+
+
+
+
+KO8_picks2 <- select(KO8_picks,-c(1,2))
+
+
+KO8 <- matches %>%
+  filter (Round == "K16") %>%
+  select(Result) %>%
+  as.vector() %>%
+  unlist() 
+
+
+
+match_names <- names(KO8_picks2)[1:length(KO8)] 
+
+# temporalmente se dejará asi
+KO8_all <- map_dfc(1:length(KO8),~if_else( KO8[.x] == KO8_picks2[,.x],true = 1,0)) %>%
+  set_names(match_names)
+
+KO8 <- rowSums(KO8_all)
+
+scores_KO8 <- data.frame(Participant_ID,KO8_all)
+
+
+# Scores KO8 
+
+
+KO8_picks <- read_csv("KO8_picks.csv")
+
+KO8_real_scores <- matches %>% 
+  filter(Round == "KO16") %>% 
+  select(Score) %>%
+  as_vector() %>% 
+  unlist() %>%
+  unname()
+
+KO8_predicted_scores <- read_csv("K08_predicted_scores.csv") %>% 
+  arrange(Participant_ID) %>% 
+  select(-Participant_ID) %>% 
+  select(1:length(KO8_real_scores))
+
+KO8_predicted_scores
+
+KO8_bonus_full <- map2_df(.x = KO8_predicted_scores,KO8_real_scores,~if_else(.x ==.y,true = 1,0)) %>% 
+  bind_cols(select(scores_KO8,Participant_ID),.) %>%
+  tibble()
+
+
+
+KO8_bonus <- KO8_bonus_full %>%
+  select(-1) %>% 
+  rowSums()
+
+
 
 
 ### Escribir el output
-scores <- data.frame(Participant_ID,Name, GS1,GS2,GS3,K16,K16_bonus) %>%
+scores <- data.frame(Participant_ID,Name, GS1,GS2,GS3,K16,K16_bonus,KO8,KO8_bonus) %>%
   group_by (Participant_ID) 
 
 scores <- scores %>%
