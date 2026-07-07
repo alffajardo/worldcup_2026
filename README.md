@@ -1,4 +1,4 @@
-Last Update: Tue  7 Jul 2026 11:44:32 EDT
+Last Update: Tue  7 Jul 2026 11:48:03 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -50,7 +50,7 @@ Tie-Breaker 3: How far will Canada advance in the tournament?
 <img src=media/tiebreak_q3.png alt=tiebreaker_q3 width=400/> 
 
 
- ## <u>**Knock Out Stage Round of 32 Picks**</u>
+ ## <u>**Knock Out Stage Round of 16 Picks**</u>
  
  
 | Name                          | Participant_ID | 89. Canada vs Morocco | 90. Paraguay vs France | 91. Brazil vs Norway | 92. Mexico vs England | 93. Portugal vs Spain | 94. USA vs Belgium | 95. Argentina vs Egypt | 96. Switzerland vs Colombia |
