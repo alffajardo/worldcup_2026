@@ -179,7 +179,7 @@ K16_bonus <- K16_bonus_full %>%
 # Scores KO8 
 
 
-KO8_picks <- read_csv("KO8_picks.csv")
+KO8_picks <- read_csv("K08_picks.csv")
 
 
 
