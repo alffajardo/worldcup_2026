@@ -12,24 +12,24 @@ library(ggplot2)
 options(gargle_oauth_email = TRUE)
 drive_auth(email = TRUE)
 
-picks_id <- drive_find(type = "spreadsheet",pattern = "WC2026: KO Stage 16_A",
+picks_id <- drive_find(type = "spreadsheet",pattern = "Wc2026: KO Stage 32_a",
 n_max = 1)$id
 
-#picks2_id <-  drive_find(type = "spreadsheet",pattern = "KO Stage 32_b")
+picks2_id <-  drive_find(type = "spreadsheet",pattern = "WC2026: KO Stage 32_B")
 
 
 picks <- read_sheet(picks_id)
-#picks2 <- read_sheet(picks2_id)
+picks2 <- read_sheet(picks2_id)
 
 picks$Participant_ID <- as.character( as.character(picks$Participant_ID)) %>%
                         str_pad(pad = "0", side = "left", width = 3)
 
-#picks2$Participant_ID <- as.character( as.character(picks2$Participant_ID)) %>%
- # str_pad(pad = "0", side = "left", width = 3)
+picks2$Participant_ID <- as.character( as.character(picks2$Participant_ID)) %>%
+  str_pad(pad = "0", side = "left", width = 3)
 
-#picks2 <- select(picks2,4:ncol(picks2))
+picks2 <- select(picks2,4:ncol(picks2))
 
-#picks <- full_join(picks,picks2)
+picks <- full_join(picks,picks2)
 
 bets <- picks[,c(3,4,5:ncol(picks))] %>%
 tibble() %>%

@@ -243,7 +243,7 @@ scores <- data.frame(Participant_ID,Name, GS1,GS2,GS3,K16,K16_bonus,KO8,KO8_bonu
   group_by (Participant_ID) 
 
 scores <- scores %>%
-  mutate(Total = sum(GS1,GS2,GS3,K16,K16_bonus,na.rm = T)) %>%
+  mutate(Total = sum(GS1,GS2,GS3,K16,K16_bonus,KO8,KO8_bonus,na.rm = T)) %>%
   ungroup %>%
   arrange(desc(Total),Participant_ID) 
 
