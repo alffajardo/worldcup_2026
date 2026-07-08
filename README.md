@@ -1,4 +1,4 @@
-Last Update: Tue  7 Jul 2026 15:48:56 EDT
+Last Update: Tue  7 Jul 2026 20:35:03 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -25,9 +25,9 @@ FIFA World Cup 2026 results
 | 001            | Jonathan Gallego              | 13  | 17  | 16  | 14  | 3         | 3   | 0         | 66    |
 | 002            | Alfonso Fajardo               | 13  | 15  | 16  | 14  | 2         | 4   | 0         | 64    |
 | 009            | Vladi                         | 12  | 14  | 16  | 14  | 3         | 4   | 0         | 63    |
+| 014            | Ahmed Felfel                  | 14  | 15  | 13  | 12  | 2         | 7   | 0         | 63    |
 | 018            | Mariel                        | 14  | 16  | 13  | 14  | 2         | 4   | 0         | 63    |
 | 005            | Ruben Sanchez Corona          | 13  | 14  | 15  | 14  | 1         | 5   | 0         | 62    |
-| 014            | Ahmed Felfel                  | 14  | 15  | 13  | 12  | 2         | 6   | 0         | 62    |
 | 015            | Claudio                       | 14  | 16  | 13  | 13  | 3         | 3   | 0         | 62    |
 | 010            | Daniel Jimenez Gomez          | 11  | 15  | 16  | 13  | 1         | 5   | 0         | 61    |
 | 017            | HABIB E                       | 11  | 16  | 12  | 13  | 5         | 4   | 0         | 61    |
