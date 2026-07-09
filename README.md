@@ -1,4 +1,4 @@
-Last Update: Tue  7 Jul 2026 20:35:03 EDT
+Last Update: Thu  9 Jul 2026 13:35:48 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -49,6 +49,56 @@ Tie-Breaker 3: How far will Canada advance in the tournament?
 
 <img src=media/tiebreak_q3.png alt=tiebreaker_q3 width=400/> 
 
+
+ ## <u>**Knock Out Quarter Finals Picks**</u>
+ 
+ 
+| Name                          | Participant_ID | 97. France vs Morocco | 98. Spain vs Belgium | 99. Norway vs England | 100. Argentina vs Switzerland |
+| ----------------------------- | -------------- | --------------------- | -------------------- | --------------------- | ----------------------------- |
+| Yonatan Galletas              | 001            | France                | Belgium              | Norway                | Argentina                     |
+| Alfonso Fajardo               | 002            | France                | Spain                | Norway                | Argentina                     |
+| Valentin O                    | 003            | France                | Spain                | Norway                | Argentina                     |
+| Jalil Rasgado                 | 004            | France                | Spain                | Norway                | Argentina                     |
+| Rubén Sánchez               | 005            | France                | Spain                | England               | Argentina                     |
+| Rodrigo                       | 007            | France                | Spain                | England               | Argentina                     |
+| Govind Mohan                  | 008            | France                | Belgium              | Norway                | Argentina                     |
+| Daniel Jimenez Gomez          | 010            | France                | Spain                | Norway                | Argentina                     |
+| Ernesto                       | 011            | France                | Spain                | England               | Argentina                     |
+| Roberto Ponce                 | 012            | France                | Spain                | Norway                | Argentina                     |
+| Ahmed Felfel                  | 014            | Morocco               | Spain                | Norway                | Argentina                     |
+| Claudio                       | 015            | France                | Spain                | England               | Argentina                     |
+| Ruben G                       | 016            | France                | Spain                | England               | Argentina                     |
+| Habib E                       | 017            | Morocco               | Spain                | Norway                | Argentina                     |
+| Mariel                        | 018            | France                | Spain                | Norway                | Argentina                     |
+| Jhonatan Omar Romero Becerril | 019            | France                | Spain                | England               | Argentina                     |
+| Julian SaSa                   | 020            | France                | Spain                | Norway                | Argentina                     |
+
+ ## <u>**Score Predictions**</u>
+
+ 
+| Participant_ID | X97..France.vs.Morocco.Predicted.Score | X98..Spain.vs.Belgium.Predicted.Score | X99..Norway.vs.England.Predicted.Score | X100..Argentina.vs.Switzerland.Predicted.Score |
+| -------------- | -------------------------------------- | ------------------------------------- | -------------------------------------- | ---------------------------------------------- |
+| 001            | 2-1                                    | 1-1                                   | 2-1                                    | 3-1                                            |
+| 002            | 3-2                                    | 2-1                                   | 2-0                                    | 1-1                                            |
+| 003            | 3-1                                    | 2-0                                   | 1-1                                    | 2-0                                            |
+| 004            | 3-1                                    | 2-1                                   | 2-2                                    | 2-0                                            |
+| 005            | 2-1                                    | 2-1                                   | 2-2                                    | 3-1                                            |
+| 007            | 2-1                                    | 1-0                                   | 1-1                                    | 2-0                                            |
+| 008            | 2-2                                    | 2-3                                   | 2-2                                    | 2-0                                            |
+| 010            | 3-2                                    | 2-1                                   | 3-2                                    | 3-2                                            |
+| 011            | 2-1                                    | 1-0                                   | 1-2                                    | 2-1                                            |
+| 012            | 3-2                                    | 2-0                                   | 2-2                                    | 2-1                                            |
+| 014            | 2-3                                    | 4-2                                   | 2-1                                    | 2-0                                            |
+| 015            | 2-1                                    | 1-0                                   | 2-2                                    | 2-1                                            |
+| 016            | 1-0                                    | 2-0                                   | 1-2                                    | 1-0                                            |
+| 017            | 2-2                                    | 2-0                                   | 2-1                                    | 3-1                                            |
+| 018            | 2-1                                    | 1-0                                   | 2-1                                    | 2-0                                            |
+| 019            | 3-2                                    | 2-2                                   | 1-2                                    | 3-1                                            |
+| 020            | 3-2                                    | 2-1                                   | 3-1                                    | 3-2                                            |
+
+![](media/picks_QF.png)
+
+- - - 
 
  ## <u>**Knock Out Stage Round of 16 Picks**</u>
  
