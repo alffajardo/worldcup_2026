@@ -1,21 +1,21 @@
-Participant_ID,Name,GS1,GS2,GS3,K16,K16_bonus,KO8,KO8_bonus,QF,QF_bonus,Total
-003,Valentin OURRY,15,17,16,14,8,4,0,3,1,78
-007,Rodrigo,13,16,16,14,5,5,0,4,1,74
-016,Ruben G,13,16,15,14,5,5,1,4,0,73
-011,Ernesto,14,17,17,14,2,4,0,4,0,72
-012,Roberto Ponce,13,18,15,13,4,4,0,3,0,70
-002,Alfonso Fajardo,13,15,16,14,2,4,0,3,2,69
-001,Jonathan Gallego,13,17,16,14,3,3,0,2,0,68
-006,Luis L,12,17,15,14,6,4,0,NA,NA,68
-005,Ruben Sanchez Corona,13,14,15,14,1,5,0,4,1,67
-015,Claudio,14,16,13,13,3,3,0,4,0,66
-018,Mariel,14,16,13,14,2,4,0,3,0,66
-010,Daniel Jimenez Gomez,11,15,16,13,1,5,0,3,1,65
-014,Ahmed Felfel,14,15,13,12,2,7,0,2,0,65
-019,Jhonatan Omar Romero Becerril,11,14,14,14,3,4,0,4,0,64
-009,Vladi,12,14,16,14,3,4,0,NA,NA,63
-017,HABIB E,11,16,12,13,5,4,0,2,0,63
-020,Julian,9,15,14,13,3,5,0,3,1,63
-013,Héctor Zepeda,13,15,15,10,4,3,0,NA,NA,60
-004,Jalil Rasgado Toledo,11,15,11,11,2,4,0,3,1,58
-008,Gov,7,15,12,14,3,5,0,2,0,58
+Participant_ID,Name,GS1,GS2,GS3,K16,K16_bonus,KO8,KO8_bonus,QF,QF_bonus,SF,SF_bonus,Total
+003,Valentin OURRY,15,17,16,14,8,4,0,3,1,1,1,80
+016,Ruben G,13,16,15,14,5,5,1,4,0,1,1,75
+007,Rodrigo,13,16,16,14,5,5,0,4,1,0,0,74
+011,Ernesto,14,17,17,14,2,4,0,4,0,1,0,73
+012,Roberto Ponce,13,18,15,13,4,4,0,3,0,2,0,72
+006,Luis L,12,17,15,14,6,4,0,NA,NA,1,1,70
+002,Alfonso Fajardo,13,15,16,14,2,4,0,3,2,0,0,69
+001,Jonathan Gallego,13,17,16,14,3,3,0,2,0,0,0,68
+005,Ruben Sanchez Corona,13,14,15,14,1,5,0,4,1,1,0,68
+015,Claudio,14,16,13,13,3,3,0,4,0,0,0,66
+018,Mariel,14,16,13,14,2,4,0,3,0,NA,NA,66
+009,Vladi,12,14,16,14,3,4,0,NA,NA,1,1,65
+010,Daniel Jimenez Gomez,11,15,16,13,1,5,0,3,1,0,0,65
+014,Ahmed Felfel,14,15,13,12,2,7,0,2,0,0,0,65
+017,HABIB E,11,16,12,13,5,4,0,2,0,2,0,65
+019,Jhonatan Omar Romero Becerril,11,14,14,14,3,4,0,4,0,0,0,64
+020,Julian,9,15,14,13,3,5,0,3,1,0,0,63
+013,Héctor Zepeda,13,15,15,10,4,3,0,NA,NA,1,0,61
+004,Jalil Rasgado Toledo,11,15,11,11,2,4,0,3,1,NA,NA,58
+008,Gov,7,15,12,14,3,5,0,2,0,0,0,58

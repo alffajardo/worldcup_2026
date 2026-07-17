@@ -300,12 +300,78 @@ QF_bonus <- QF_bonus_full %>%
 
 QF <- full_join(QF,QF_bonus)
 
+# Scores SF 
+
+
+SF_picks <- read_csv("SF_picks.csv")
+
+
+
+
+SF_picks2 <- select(SF_picks,-c(1,2))
+
+
+SF <- matches %>%
+  filter (Round == "SF") %>%
+  select(Result) %>%
+  as.vector() %>%
+  unlist() 
+
+
+
+match_names <- names(SF_picks2)[1:length(SF)] 
+
+# temporalmente se dejará asi
+SF_all <- map_dfc(1:length(SF),~if_else( SF[.x] == SF_picks2[,.x],true = 1,0)) %>%
+  set_names(match_names)
+
+SF <- rowSums(SF_all,na.rm = T)
+SF2 <- data.frame(Participant_ID = SF_picks$Participant_ID,SF)
+SF <- SF2
+rm(SF2)
+
+scores_SF <- data.frame(Participant_ID = SF_picks$Participant_ID,SF_all)
+
+
+# Scores SF 
+
+
+SF_picks <- read_csv("SF_picks.csv")
+
+SF_real_scores <- matches %>% 
+  filter(Round == "SF") %>% 
+  select(Score) %>%
+  as_vector() %>% 
+  unlist() %>%
+  unname()
+
+SF_predicted_scores <- read_csv("SF_predicted_scores.csv") %>% 
+  arrange(Participant_ID) %>% 
+  select(-Participant_ID) %>% 
+  select(1:length(SF_real_scores))
+
+SF_predicted_scores
+
+SF_bonus_full <- map2_df(.x = SF_predicted_scores,SF_real_scores,~if_else(.x ==.y,true = 1,0)) %>% 
+  bind_cols(select(scores_SF,Participant_ID),.) %>%
+  tibble()
+
+
+
+SF_bonus <- SF_bonus_full %>%
+  select(-1) %>% 
+  rowSums(na.rm = T) %>% 
+  bind_cols(select(SF_bonus_full,Participant_ID),.) %>%
+  set_names("Participant_ID","SF_bonus")
+
+SF <- full_join(SF,SF_bonus)
 
 ### Escribir el output
 scores <- data.frame(Participant_ID,Name, GS1,GS2,GS3,K16,K16_bonus,KO8,KO8_bonus) %>%
   full_join(QF) %>%
+  full_join(SF) %>%
   group_by (Participant_ID)  %>%
-  mutate(Total = sum(GS1,GS2,GS3,K16,K16_bonus,KO8,KO8_bonus,QF,QF_bonus,na.rm = T)) %>%
+  mutate(Total = sum(GS1,GS2,GS3,K16,K16_bonus,KO8,KO8_bonus,QF,QF_bonus,SF,SF_bonus,na.rm = T)) %>%
   ungroup %>%
   arrange(desc(Total),Participant_ID) 
 
