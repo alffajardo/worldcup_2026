@@ -8,7 +8,7 @@ matches_id <- drive_find("matches_wc2026",type = "spreadsheet",
                         n_max = 1)$id
 matches <- read_sheet(matches_id)
 setwd("flags/")
-for (i in 101:nrow(matches)){
+for (i in 103:nrow(matches)){
 
 
 flags <- dir(pattern = "*png")
