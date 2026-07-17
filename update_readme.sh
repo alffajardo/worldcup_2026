@@ -27,13 +27,13 @@ FIFA World Cup 2026 results
 #########------------------------
 ##        Semi-Finals
 ####################################
-Rscript generate_picks_SM.R
+Rscript generate_picks_SF.R
 
 echo "
  ## <u>**Knock Out Quarter Finals Picks**</u>
  
  " > 07.tmp_sf.md
-gen_markdowntable.sh --csv < SM_picks.csv  >> 07.tmp_sf.md
+gen_markdowntable.sh --csv < SF_picks.csv  >> 07.tmp_sf.md
 
 echo "
  ## <u>**Score Predictions**</u>
@@ -42,12 +42,13 @@ echo "
 
 
 
-gen_markdowntable.sh --csv < SM_predicted_scores.csv  >> 07.tmp_sf.md
+gen_markdowntable.sh --csv < SF_predicted_scores.csv  >> 07.tmp_sf.md
 
 echo "
-![](media/picks_SM.png)
+![](media/picks_SF.png)
 
 - - - " >> 07.tmp_sf.md
+
 
 #########------------------------
 ##        Quarter Finals

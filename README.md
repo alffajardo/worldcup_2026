@@ -1,4 +1,4 @@
-Last Update: Fri 17 Jul 2026 12:17:40 EDT
+Last Update: Fri 17 Jul 2026 12:47:03 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -53,12 +53,52 @@ Tie-Breaker 3: How far will Canada advance in the tournament?
  ## <u>**Knock Out Quarter Finals Picks**</u>
  
  
+| Name                          | Participant_ID | 101. France vs Spain | 102. England vs Argentina |
+| ----------------------------- | -------------- | -------------------- | ------------------------- |
+| Jonathan Gallego              | 001            | France               | England                   |
+| Alfonso Fajardo               | 002            | France               | England                   |
+| Valentin O                    | 003            | France               | Argentina                 |
+| Rubén Sánchez               | 005            | France               | Argentina                 |
+| Luis L                        | 006            | France               | Argentina                 |
+| Rodrigo                       | 007            | France               | England                   |
+| Govind Mohan                  | 008            | France               | England                   |
+| Vladi                         | 009            | France               | Argentina                 |
+| Daniel Jiménez Gómez        | 010            | France               | England                   |
+| Ernesto                       | 011            | Spain                | England                   |
+| Roberto Ponce                 | 012            | Spain                | Argentina                 |
+| Héctor Zepeda                | 013            | Spain                | England                   |
+| Ahmed Felfel                  | 014            | France               | England                   |
+| Claudio                       | 015            | France               | England                   |
+| Ruben G                       | 016            | France               | Argentina                 |
+| Habib Echanove                | 017            | Spain                | Argentina                 |
+| Jhonatan Omar Romero Becerril | 019            | France               | England                   |
+| Julian SaSa                   | 020            | France               | England                   |
 
  ## <u>**Score Predictions**</u>
 
  
+| Participant_ID | X101..France.vs.Spain.Predicted.Score | X102..England.vs.Argentina.Predicted.Score |
+| -------------- | ------------------------------------- | ------------------------------------------ |
+| 001            | 2-1                                   | 2-1                                        |
+| 002            | 2-1                                   | 3-2                                        |
+| 003            | 2-1                                   | 1-2                                        |
+| 005            | 2-1                                   | 1-1                                        |
+| 006            | 2-1                                   | 1-2                                        |
+| 007            | 2-1                                   | 1-1                                        |
+| 008            | 2-1                                   | 2-2                                        |
+| 009            | 2-1                                   | 1-2                                        |
+| 010            | 3-2                                   | 4-2                                        |
+| 011            | 1-2                                   | 3-2                                        |
+| 012            | 2-2                                   | 1-1                                        |
+| 013            | 2-2                                   | 2-1                                        |
+| 014            | 3-2                                   | 2-1                                        |
+| 015            | 2-1                                   | 2-2                                        |
+| 016            | 2-1                                   | 1-2                                        |
+| 017            | 1-2                                   | 1-1                                        |
+| 019            | 2-2                                   | 2-1                                        |
+| 020            | 2-1                                   | 3-2                                        |
 
-![](media/picks_SM.png)
+![](media/picks_SF.png)
 
 - - - 
 
