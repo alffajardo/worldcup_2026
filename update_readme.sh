@@ -25,6 +25,31 @@ FIFA World Cup 2026 results
 ---" >> 00.tmp_header.md
 
 #########------------------------
+##        Semi-Finals
+####################################
+Rscript generate_picks_SM.R
+
+echo "
+ ## <u>**Knock Out Quarter Finals Picks**</u>
+ 
+ " > 07.tmp_sf.md
+gen_markdowntable.sh --csv < SM_picks.csv  >> 07.tmp_sf.md
+
+echo "
+ ## <u>**Score Predictions**</u>
+
+ " >> 07.tmp_sf.md
+
+
+
+gen_markdowntable.sh --csv < SM_predicted_scores.csv  >> 07.tmp_sf.md
+
+echo "
+![](media/picks_SM.png)
+
+- - - " >> 07.tmp_sf.md
+
+#########------------------------
 ##        Quarter Finals
 ####################################
 Rscript generate_picks_QF.R
@@ -245,7 +270,7 @@ Tie-Breaker 3: How far will Canada advance in the tournament?
 <img src="media/tiebreak_q3.png" alt="tiebreaker_q3" width="400"/> 
 " >> 00.tmp_header.md
  
-cat 00.tmp_header.md 06.tmp_qf.md 05.tmp_ko08.md 04.tmp_ko16.md 03.tmp_gs3.md 02.tmp_gs2.md 01.tmp_gs1.md > README.md
+cat 00.tmp_header.md 07.tmp_sf.md 06.tmp_qf.md 05.tmp_ko08.md 04.tmp_ko16.md 03.tmp_gs3.md 02.tmp_gs2.md 01.tmp_gs1.md > README.md
 
 
 

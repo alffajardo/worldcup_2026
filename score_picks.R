@@ -12,7 +12,6 @@ library(purrr)
 options(gargle_oauth_email = TRUE)
 drive_auth(email = TRUE)
 
-
 # Calificar la ronda 1
 GS1_picks <- read_csv("GS1_picks.csv")
 
