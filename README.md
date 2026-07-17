@@ -1,4 +1,4 @@
-Last Update: Fri 17 Jul 2026 12:51:03 EDT
+Last Update: Fri 17 Jul 2026 13:18:56 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
@@ -50,7 +50,7 @@ Tie-Breaker 3: How far will Canada advance in the tournament?
 <img src=media/tiebreak_q3.png alt=tiebreaker_q3 width=400/> 
 
 
- ## <u>**Knock Out Quarter Finals Picks**</u>
+ ## <u>**Knock Out Semi-Finals Picks**</u>
  
  
 | Name                          | Participant_ID | 101. France vs Spain | 102. England vs Argentina |

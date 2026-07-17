@@ -30,7 +30,7 @@ FIFA World Cup 2026 results
 Rscript generate_picks_SF.R
 
 echo "
- ## <u>**Knock Out Quarter Finals Picks**</u>
+ ## <u>**Knock Out Semi-Finals Picks**</u>
  
  " > 07.tmp_sf.md
 gen_markdowntable.sh --csv < SF_picks.csv  >> 07.tmp_sf.md
