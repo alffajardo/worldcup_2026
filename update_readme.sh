@@ -22,11 +22,13 @@ echo "# **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 --- 
 FIFA World Cup 2026 results
----" >> 00.tmp_header.md
+---
+" >> 00.tmp_header.md
 
 #########------------------------
 ##        Final Round
 ####################################
+
 Rscript generate_picks_F.R
 
 echo "
@@ -36,6 +38,7 @@ echo "
 gen_markdowntable.sh --csv < F_picks.csv  >> 08.tmp_f.md
 
 echo "
+
  ## <u>**Score Predictions**</u>
 
  " >> 08.tmp_f.md
@@ -48,6 +51,7 @@ echo "
 ![](media/picks_F.png)
 
 - - - " >> 08.tmp_f.md
+
 #########------------------------
 ##        Semi-Finals
 ####################################
