@@ -6,6 +6,7 @@ library(dplyr)
 library(tidyr)
 library(readr)
 library(purrr)
+library(purrr)
 
 
 # read the data
@@ -296,7 +297,7 @@ QF_bonus <- QF_bonus_full %>%
   select(-1) %>% 
   rowSums(na.rm = T) %>% 
   bind_cols(select(QF_bonus_full,Participant_ID),.) %>%
-  set_names("Participant_ID","QF_bonus")
+  purrr::set_names("Participant_ID","QF_bonus")
 
 QF <- full_join(QF,QF_bonus)
 
@@ -362,16 +363,83 @@ SF_bonus <- SF_bonus_full %>%
   select(-1) %>% 
   rowSums(na.rm = T) %>% 
   bind_cols(select(SF_bonus_full,Participant_ID),.) %>%
-  set_names("Participant_ID","SF_bonus")
+  purrr::set_names("Participant_ID","SF_bonus")
 
 SF <- full_join(SF,SF_bonus)
+
+# Scores F 
+
+
+F_picks <- read_csv("F_picks.csv")
+
+
+
+
+F_picks2 <- select(F_picks,-c(1,2))
+
+
+Fr<- matches %>%
+  filter (Round == "F") %>%
+  select(Result) %>%
+  as.vector() %>%
+  unlist() 
+
+
+
+match_names <- names(F_picks2)[1:length(Fr)] 
+
+# temporalmente se dejará asi
+F_all <- map_dfc(1:length(Fr),~if_else( Fr[.x] == F_picks2[,.x],true = 1,0)) %>%
+  set_names(match_names)
+
+Fr <- rowSums(F_all,na.rm = T)
+F2 <- data.frame(Participant_ID = F_picks$Participant_ID,Fr)
+Fr <- F2
+rm(F2)
+
+scores_F <- data.frame(Participant_ID = F_picks$Participant_ID,F_all)
+
+
+# Scores F 
+
+
+F_picks <- read_csv("F_picks.csv")
+
+F_real_scores <- matches %>% 
+  filter(Round == "F") %>% 
+  select(Score) %>%
+  as_vector() %>% 
+  unlist() %>%
+  unname()
+
+F_predicted_scores <- read_csv("F_predicted_scores.csv") %>% 
+  arrange(Participant_ID) %>% 
+  select(-Participant_ID) %>% 
+  select(1:length(F_real_scores))
+
+F_predicted_scores
+
+F_bonus_full <- map2_df(.x = F_predicted_scores,F_real_scores,~if_else(.x ==.y,true = 1,0)) %>% 
+  bind_cols(select(scores_F,Participant_ID),.) %>%
+  tibble()
+
+
+
+F_bonus <- F_bonus_full %>%
+  select(-1) %>% 
+  rowSums(na.rm = T) %>% 
+  bind_cols(select(F_bonus_full,Participant_ID),.) %>%
+  purrr::set_names("Participant_ID","F_bonus")
+
+Fr <- full_join(Fr,F_bonus)
 
 ### Escribir el output
 scores <- data.frame(Participant_ID,Name, GS1,GS2,GS3,K16,K16_bonus,KO8,KO8_bonus) %>%
   full_join(QF) %>%
   full_join(SF) %>%
+  full_join(Fr) %>%
   group_by (Participant_ID)  %>%
-  mutate(Total = sum(GS1,GS2,GS3,K16,K16_bonus,KO8,KO8_bonus,QF,QF_bonus,SF,SF_bonus,na.rm = T)) %>%
+  mutate(Total = sum(GS1,GS2,GS3,K16,K16_bonus,KO8,KO8_bonus,QF,QF_bonus,SF,SF_bonus,Fr,F_bonus,na.rm = T)) %>%
   ungroup %>%
   arrange(desc(Total),Participant_ID) 
 
