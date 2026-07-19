@@ -1,9 +1,9 @@
-Last Update: Sun 19 Jul 2026 12:54:55 EDT
+Last Update: Sun 19 Jul 2026 13:09:35 EDT
 # **CANADA-USA-MEXICO FIFA WORLD CUP 2026**
 
 <p align=center>
 
-<img src=media/worldcup_banner.jpeg alt=worldcup_banner width=1000/>
+<img src=media/worldcup_banner.jjpeg alt=worldcup_banner width=1000/>
 
 ---
 # Welcome
